@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillViewport="false" >
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="fra.studentcounsellingservice.schritteActivity"
+    android:background="@drawable/background">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/zurueckUebersicht"
+        android:id="@+id/backButton"
+        android:background="#00ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/schritteHeadline"
+        android:id="@+id/headlineSchritte"
+        android:textColor="#007bbc"
+        android:textStyle="bold"
+        android:layout_below="@+id/backButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="25sp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/twentyfirstText"
+        android:id="@+id/button12"
+        android:clickable="true"
+        android:layout_below="@+id/headlineSchritte"
+        android:background="@drawable/cornerbutton"
+        android:gravity="center_vertical"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/twentysecondText"
+        android:id="@+id/textView13"
+        android:layout_below="@+id/button12"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/button13"
+        android:text="@string/twentythirdText"
+        android:layout_below="@+id/textView13"
+        android:background="@drawable/cornerbuttoninfo"
+        android:textColor="#ffffff"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/twentyfourthText"
+        android:id="@+id/textView14"
+        android:layout_below="@+id/button13"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/secondText"
+        android:background="@drawable/cornerbutton"
+        android:gravity="center_vertical"
+        android:id="@+id/button2"
+        android:layout_below="@+id/textView14"
+        android:layout_marginTop="1dp"
+        android:textColor="#ffffff"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/firstText"
+        android:id="@+id/textView"
+        android:layout_below="@+id/button2"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/button7"
+        android:text="@string/thirteenthText"
+        android:layout_below="@+id/textView"
+        android:background="@drawable/cornerbuttoninfo"
+        android:textColor="#ffffff"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fourteenthText"
+        android:id="@+id/textView8"
+        android:layout_below="@+id/button7"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/thirdText"
+        android:id="@+id/button3"
+        android:clickable="true"
+        android:layout_below="@+id/textView8"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/cornerbutton"
+        android:gravity="center_vertical"
+        android:textColor="#ffffff"
+        android:layout_marginTop="1dp"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/fourthText"
+        android:id="@+id/textView4"
+        android:layout_below="@+id/button3"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/button8"
+        android:text="@string/fifteenthText"
+        android:layout_below="@+id/textView4"
+        android:background="@drawable/cornerbuttoninfo"
+        android:textColor="#ffffff"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sixteenthText"
+        android:id="@+id/textView9"
+        android:layout_below="@+id/button8"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/seventhText"
+        android:id="@+id/button4"
+        android:clickable="true"
+        android:layout_below="@+id/textView9"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/cornerbutton"
+        android:gravity="center_vertical"
+        android:textColor="#ffffff"
+        android:layout_marginTop="1dp"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/eightText"
+        android:id="@+id/textView5"
+        android:layout_below="@+id/button4"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/button9"
+        android:text="@string/seventeenthText"
+        android:layout_below="@+id/textView5"
+        android:background="@drawable/cornerbuttoninfo"
+        android:textColor="#ffffff"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/eighteenthText"
+        android:id="@+id/textView10"
+        android:layout_below="@+id/button9"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/ninethText"
+        android:id="@+id/button5"
+        android:clickable="true"
+        android:layout_below="@+id/textView10"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/cornerbutton"
+        android:gravity="center_vertical"
+        android:textColor="#ffffff"
+        android:layout_marginTop="1dp"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/tenthText"
+        android:id="@+id/textView6"
+        android:layout_below="@+id/button5"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/button10"
+        android:text="@string/nineteenthText"
+        android:layout_below="@+id/textView6"
+        android:background="@drawable/cornerbuttoninfo"
+        android:textColor="#ffffff"
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/twentythText"
+        android:id="@+id/textView11"
+        android:layout_below="@+id/button10"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/eleventhText"
+        android:id="@+id/button6"
+        android:clickable="true"
+        android:layout_below="@+id/textView11"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/cornerbutton"
+        android:gravity="center_vertical"
+        android:textColor="#ffffff"
+        android:layout_marginTop="1dp"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/twelvethText"
+        android:id="@+id/textView7"
+        android:layout_below="@+id/button6"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/button11"
+        android:text="@string/twentyfifthText"
+        android:layout_below="@+id/textView7"
+        android:background="@drawable/cornerbuttoninfo"
+        android:textColor="#ffffff"
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/twentysixthText"
+        android:id="@+id/textView12"
+        android:layout_below="@+id/button11"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"/>
+
+
+</RelativeLayout>
+
+</ScrollView>

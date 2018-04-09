@@ -1,0 +1,650 @@
+<resources>
+    <string name="app_name">StudentCounsellingService</string>
+    <string name="title_activity_studiengaenge">studiengaengeActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Zurück zur Übersicht Button -->
+    <string name="zurueckUebersicht" color="#007bbc">&lt; Zurück zur Übersicht</string>
+
+    <!-- Schritt für Schritt -->
+    <string name="schritteHeadline">Schritt für Schritt zum Studium</string>
+    <string name="firstText"><![CDATA[<p><h1>1. Will ich überhaupt studieren?</h1>
+    Kommt ein Studium für Dich überhaupt in Frage? Vielleicht möchtest Du von „Schule“ erst mal nichts
+    mehr wissen oder könntest Dir vorstellen, erst einmal eine Ausbildung zu machen? Oder beides im Rahmen
+    eines Dualen Studiums zu verbinden?<br/>
+    Was spricht (für Dich) dafür, zu studieren, was spricht dagegen? Ein Studium verlangt viel Eigeninitiative.
+    Anders als in der Schule überprüft hier niemand die Anwesenheit oder ob Du Deine „Hausaufgaben“ gemacht hast.
+    Du musst Deinen Stundenplan selbst gestalten, Du entscheidest, wann und wie Du lernst und ob Du zu
+    Lehrveranstaltungen gehst. Dafür musst Du dich gut motivieren können. Du musst in der Lage sein, Deine Zeit
+    einzuteilen, und so strukturiert sein, dass Du merkst, wann Du lernen solltest und wann Du Dir
+    Freizeit gönnen kannst.<br/><br/>
+
+    Bei der Entscheidung für oder gegen ein Studium, solltest Du dir folgende Fragen ehrlich beantworten:<br/><br/>
+
+    <b>Welche Interessen habe ich?</b><br/>
+    <i>"Bin ich mir schon darüber bewusst, was ich wirklich will und wo ich einmal hin möchte?"</i><br/>
+    <b>Studium oder Berufsausbildung?</b><br/>
+    <i>"Was spricht dafür, was dagegen?"</i><br/>
+    <b>Welchen Wert hätte eine Ausbildung für mich?</b><br/>
+    <i>"Entspricht sie meinen Interessen? Ist es mir wichtig, zunächst eine Berufsausbildung zu machen?"</i><br/>
+    <b>Was bedeutet studieren für mich?</b><br/>
+    <i>"Hab' ich Spaß an eigenverantwortlicher Arbeit; wie diszipliniert strukturiert bin ich?"</i><br/>
+    <b>Welchen Nutzen bringt mir ein abgeschlossenes Studium?</b><br/>
+    <i>"Welche Möglichkeiten eröffnet es mir? Möchte ich diese wahrnehmen?"</i><br/>
+    <b>Kann ich mir ein Studium überhaupt leisten?</b><br/>
+    <i>"Was kostet ein Studium? Und (wie) kann ich es finanzieren?"</i><br/><br/>
+    Es gibt viele gute Bildungswege; schau genau hin, welcher am besten zu Deinen Interessen passt.: </p>]]></string>
+    <string name="secondText">\t1. Will ich überhaupt studieren?</string>
+    <string name="thirdText">\t2. Welche Interessen habe ich?</string>
+    <string name="fourthText"><![CDATA[<p><h1>2. Welche Interessen habe ich?</h1>
+
+	Die Suche nach dem passenden Studiengang beginnt bei Dir selbst. Bevor Du Dir überlegst, wo Du hinwillst, solltest Du Dir klar machen, wo Du stehst.
+	Was tust Du gern? Was kannst Du gut? Was nicht? Schreib\' Deine Interessen, Stärken und Fähigkeiten auf, ohne gleich an bestimmte Studienfächer oder Berufe zu denken. Dazu gehört Lesen genauso wie Zeichnen,
+	Fußball spielen, Babysitten oder einen Blog schreiben. Vielleicht können Tests Dir dabei helfen, wie zum Beispiel unser Interessen-Test <a href="https://www.frankfurt-university.de/studium/beratung/osa0.html#c25866">FachFinder FRA-UAS</a>.<br/>
+
+	<br/>Danach fragst Du die Menschen, die Dich besonders gut kennen - Freundinnen und Freunde, Eltern, Geschwister, Bekannte –, sprichst mit ihnen über Deine Ergebnisse und  bittest sie um eine Einschätzung.
+	Vielleicht fallen ihnen ja auch noch Eigenschaften ein, die Dir selbst gar nicht aufgefallen sind? Sie wissen oft mehr über Deine Talente als Du. Sie beobachten, dass Dir leicht von der Hand geht,
+	was ihnen vielleicht schwer fällt. Finde heraus: Wofür bewundern Dich andere? Bei welchen Aufgaben bitten sie Dich um Hilfe? Bei welchen Tätigkeiten vergisst Du die Zeit? Was begeistert Dich?
+	Notiere Deine Erkenntnisse und bringe sie in eine Reihenfolge: Welche Interessengebiete sind besonders wichtig für Dich? Welche weniger? </p>]]></string>
+    <string name="seventhText">\t3. Welches Studium passt zu mir?</string>
+    <string name="eightText"><![CDATA[<p><h1>3. Welches Studium passt zu mir?</h1>
+
+	Die Auflistung Deiner Stärken und Interessen führt Dich möglicherweise schon zu einem oder einer Auswahl von Studiengängen.<br/>
+
+	Vielleicht fällt Dir dennoch die Entscheidung für einen Studiengang schwer, weil Du befürchtest, eine falsche Wahl zu treffen. Keine Sorge!
+	Ein Bachelorstudium legt die fachlichen Grundlagen für einen beruflichen Einstieg. Du kannst anschließend aber auch Dein Wissen mit einem Masterstudium vertiefen oder
+	durch einen fachfremden Master ergänzen und so einem Berufsweg eine andere, vielleicht neue Richtung geben. Und auch ein Fachwechsel oder der Wechsel in eine
+	berufliche Ausbildung – siehe unten - sind absolut kein „Beinbruch“.<br/>
+
+	In dieser Übersicht  findest Du die Studiengänge an der Frankfurt University of Applied Sciences, die zu Deinen Interessen und Stärken passen.<br/>
+
+	<h2>Welcher Beruf passt zu meinem Studienfach?</h2>
+
+	Wenn Du aus Deinen aufgelisteten Interessen und Stärken noch keinen konkreten Studienwunsch ableiten kannst, kannst Du Dich fragen, als was Du später einmal arbeiten möchtest.
+	Dann liefert die Webseite <a href="http://www.berufenet.de/">www.berufenet.de</a> der Arbeitsagentur hilfreiche und nützliche Informationen zu zahlreichen Berufsfeldern. Dazu sind passende Studienmöglichkeiten aufgeführt,
+	so dass Du eine Wahl sehr zielgerichtet mit Blick auf spätere Studienoptionen treffen kannst. </p>]]></string>
+    <string name="ninethText">\t4. Wo will ich studieren?</string>
+    <string name="tenthText"><![CDATA[<p><h1>4. Wo will ich studieren?</h1>
+
+	Du hast Dich für einen Studiengang entschieden. Das ist gut! Besser, wenn Du an der Frankfurt University of Applied Sciences studieren willst!<br/>
+
+	Aber Spaß beiseite, denn Studiengang ist nicht gleich Studiengang! Er kann an verschiedenen Studienorten sehr unterschiedlich aufgebaut sein - sechs  oder sieben Semester,
+	mit oder ohne Auslandsaufenthalt, mit längeren oder kürzeren Praxis-Zeiten, mit verschiedenen inhaltlichen Ausrichtungen (sog. Schwerpunkten), mit unterschiedlichen Fremdsprachenan- teilen
+	und vielen anderen Details mehr. Schau auch darauf: wie sind die Studienbedingungen? Welche Größe hat die Hochschule? Wie groß sind die Seminare und Vorlesungen (Teilnahmezahlen)?<br/>
+
+	<h3>Universität oder Fachhochschule?</h3>
+	Die Unterschiede zwischen Universitäten und Hochschulen für angewandte Wissenschaften sind seit der Bologna-Reform zumindest hinsichtlich der Abschlüsse Bachelor und Master aufgehoben,
+	die von beiden Hochschulgattungen verliehen werden. Unterschiedlich ist die Studienanlage: das Studium an Hochschulen für angewandte Wissenschaften ist praxisbezogener,
+	die Forschung anwendungsbezogen. Studiengänge an klassischen Universitäten sind theorielastiger; die Forschung grundlagenorientiert.<br/>
+
+	<h3>Teuer oder günstig?</h3>
+	Auch nicht ganz unwichtig: Was bietet Dir dein künftiger Studienort? Wie hoch sind dort die Lebenshaltungskosten? Wie ist die Wohnsituation und wie leicht finden sich Jobs?
+	Möchtest Du in ein ganz neues Umfeld eintauchen, oder ist Dir der nahe räumliche Kontakt zu Familie und bisherigen FreundInnen wichtig?<br/>
+
+	<h3>Frankfurt University of Applied Sciences</h3>
+	Wenn Du Dich für ein Studium an der FRA-UAS interessierst, solltest Du Dir den Campus am besten einmal vor Ort anschauen. Hier wirst Du in den nächsten Jahre viel Zeit verbringen,
+	daher solltest Du Dich an der Hochschule auch wohl fühlen. Du kannst uns auch im Rahmen unserer Angebote für Studieninteressierte besuchen und die Hochschule durch Veranstaltungen,
+	Labore und Führungen kennenlernen. </p>]]></string>
+    <string name="eleventhText">\t5. Bewerben leicht gemacht</string>
+    <string name="twelvethText"><![CDATA[<p><h1>5. Bewerben leicht gemacht</h1>
+
+	Du hast Deine Entscheidung getroffen, was und wo Du studieren willst. Nun kommt früher oder später der nächste Schritt:
+	Bewirbst Du Dich für einen NC-Studiengang oder kannst Du Dich direkt einschreiben <a href="https://www.frankfurt-university.de/fachbereiche/alle-studiengaenge.html">(Übersicht offene und zulassungsbeschränkte Studiengänge)</a>?
+	Was musst Du wissen, was beachten? Welche Fristen sind einzuhalten? Welche Unterlagen benötigst Du?<br/>
+
+	All diese Informationen haben wir hier für Dich in einem Zeitplan zur Einschreibung ins Studium zusammengestellt. <br/><br/>
+	…zum Start im Wintersemester:<br/>
+	<a href="https://www.frankfurt-university.de/fileadmin/de/ServicefuerStudierende/Erstsemestereinfuehrung/Checkliste_Wintersemester.pdf">Checkliste Wintersemester</a><br/><br/>
+	… zum Start im Sommersemester:<br/>
+	<a href="https://www.frankfurt-university.de/fileadmin/de/ServicefuerStudierende/Erstsemestereinfuehrung/Checkliste_Sommersemester.pdf">Checkliste Sommersemester</a></p>]]></string>
+    <string name="thirteenthText">Weitere Informationen!</string>
+    <string name="fourteenthText"><![CDATA[<p><h3>Entscheidungshilfen:</h3>
+
+    <a href="https://www.frankfurt-university.de/studium/beratung/osa0.html">FachFinder FRA-UAS</a> – Finde heraus, was Dir am besten liegt<br/>
+    Allgemeine <a href="http://www.hochschulkompass.de/">Infos</a><br/>
+    <a href="https://www.frankfurt-university.de/forschung-transfer/duales-studium.html">Duales Studium</a><br/>
+    <a href="https://www.frankfurt-university.de/studium/rundumsstudium.html">Studienorganisation</a><br/>
+    <a href="https://www.frankfurt-university.de/fileadmin/de/ServicefuerStudierende/Zentrale_Studienberatung/Bilder/Schautafel_Bachelor_-_Master.pdf">Schautafel Bachelor - Master (PDF)</a><br/>
+
+    <h3><b>Kosten und Finanzierung:</b></h3>
+
+    <a href="https://www.frankfurt-university.de/studium/rundumsstudium/semesterbeitraege-finanzierung/semesterbeitraege.html">Semesterbeiträge</a><br/>
+    <a href="https://www.frankfurt-university.de/studium/rundumsstudium/semesterbeitraege-finanzierung/studium-finanz1.html">Studium finanzieren</a><br/>
+    <a href="https://www.frankfurt-university.de/fileadmin/de/ServicefuerStudierende/Zentrale_Studienberatung/Bilder/Studienkosten_und_Finanzierungsmöglichkeiten.pdf">Studienkosten
+    und Finanzierungsmöglichkeiten (PDF)</a></p>]]></string>
+    <string name="fifteenthText">Weitere Informationen!</string>
+    <string name="sixteenthText"><![CDATA[<p><h3>Was tun?</h3>
+
+    <b>Zuerst machst Du den Selbst-Test FachFinder FRA-UAS</b><br/>
+    Hier findest Du den <a href="activity_b://a">Interessen-Test</a> - einen Selbst-Test, der Dir dabei hilft, herauszufinden, wo Deine Interessen liegen.<br/><br/>
+
+    <b>…dann kommst Du zur Beratung</b><br/>
+    Wenn Du mit den Ergebnissen des Selbsttests zur <a href="https://www.frankfurt-university.de/studium/beratung/dasteam1.html">Zentralen
+    Studienberatung</a> gehst, können wir Dir dabei helfen den Weg zu finden, der zu Dir passt.<br/><br/>
+
+    <b>…oder zu einem unserer Workshops:</b><br/>
+    Workshop "School\'s out - and now?" - Orientierung für Studieninteressierte. Zur Anmeldung geht es
+    <a href="https://www.frankfurt-university.de/studium/beratung/dasteam1/unsere-angebote00/aktuelle-workshops/anmeldung-workshops.html">hier</a>.<br/><br/>
+
+    <b>Hilfe Mathe!</b><br/>
+    Mathematik ist ein Grundlagenfach aller Informatik- und Ingenieurstudiengänge, ebenso in den Wirtschaftswissenschaften.
+    Wir haben wichtige Tipps auf unserer <a href="https://www.frankfurt-university.de/fachbereiche/fb2/einrichtungen/mathe-plattform.html">Mathe-Plattform</a> zusammengestellt.</p>]]></string>
+    <string name="seventeenthText">Weitere Informationen!</string>
+    <string name="eighteenthText"><![CDATA[<p><h3>Überblick</h3>
+	<big><b>Fachbereiche und Studiengänge der FRA-UAS</b></big><br/>
+
+    <a href="https://www.frankfurt-university.de/fachbereiche/fb-1-architektur-bauingenieurwesen-geomatik.html">Fachbereich 1:<br/>
+    Architektur, Bauingenieurwesen, Geomatik </a><br/><br/>
+
+    <a href="https://www.frankfurt-university.de/fachbereiche/fb2.html">Fachbereich 2:<br/>
+    Informatik & Ingenieurwissenschaften </a><br/><br/>
+
+    <a href="https://www.frankfurt-university.de/fachbereiche/fb3.html">Fachbereich 3:<br/>
+    Wirtschaft & Recht </a><br/><br/>
+
+    <a href="https://www.frankfurt-university.de/fachbereiche/fb4.html">Fachbereich 4:<br/>
+    Soziale Arbeit & Gesundheit </a><br/><br/>
+
+	<big><b>Orientierung</b></big><br/>
+
+    <a href="https://www.frankfurt-university.de/studium/beratung/osa0.html">FachFinder FRA-UAS</a><br/>
+    <a href="https://www.frankfurt-university.de/studium/studium-kennenlernen/schnupperangebote10.html">Schnupperstudium</a><br/>
+    <a href="https://www.frankfurt-university.de/studium/studium-kennenlernen/chancen-bilden00.html">Chancen bilden - Fit für\'s Studium</a><br/>
+    <a href="https://www.frankfurt-university.de/studium/studium-kennenlernen/mainstudy.html">MainStudy</a></p>]]></string>
+    <string name="nineteenthText">Weitere Informationen!</string>
+    <string name="twentythText"><![CDATA[<p><h3>Wissen durch Praxis stärkt</h3>
+
+	<big><b>Frankfurt University of Applied Sciences:</b></big><br/>
+
+    - angenehme Studienbedingungen (keine überfüllten Hörsäle)<br/>
+    - kleine Lerngruppen<br/>
+    - <a href="https://www.frankfurt-university.de/international/partner-netzwerke.html">zahlreiche Partnerhochschulen im Ausland</a><br/>
+    - <a href="https://www.frankfurt-university.de/fachbereiche/uebergreifende-angebote/interdisziplinaeres-studium-generale.html">Interdisziplinarität (studium generale)</a><br/>
+    - <a href="https://www.frankfurt-university.de/fachbereiche/uebergreifende-angebote/fachsprachenzentrum.html#c29872">Fachsprachenzentrum</a><br/>
+    - <a href="https://www.frankfurt-university.de/fachbereiche/uebergreifende-angebote/selbstlernzentrum.html">Selbstlernzentrum</a><br/>
+    - umfangreiches <a href="https://www.frankfurt-university.de/studium/service-fuer-studierende/hochschulsport.html">Hochschulsport-Programm</a><br/>
+    - <a href="https://www.frankfurt-university.de/ueber-uns/wir-ueber-uns/familiengerechte-hochschule.html#c508">familienfreundliche Angebote</a></p>]]></string>
+    <string name="twentyfirstText">Schritt für Schritt zum Studium</string>
+    <string name="twentysecondText"><![CDATA[<h1>So geht Studium!</h1> <p><i>„Wähle den Beruf, den Du liebst,
+    und Du musst keinen Tag im Leben mehr arbeiten.“</i><br/><br/>Konfuzius<br/><b>"… und was willst Du mal studieren?"</b>
+    <br/>Tipps zur Studienwahl<br/><br/>Die Frage klingt eigentlich harmlos, hat es aber in sich.
+    Denn ein Studium soll schließlich die Grundlage für eine berufliche Karriere legen, die Deine Zukunft sichert.<br/>
+    Aber oft fällt die Entscheidung schwer: zu groß ist das Angebot, zu unübersichtlich die Zahl der Studiengänge.
+    Man könnte, sollte, müsste… Wie gut, wenn es jetzt ein paar allgemein gültige Regeln gäbe! Oder eine Check-Liste,
+    die Du einfach abarbeiten kannst und am Ende ist klar, was Du studierst. Ganz so einfach ist es leider nicht und
+    es wäre vermutlich auch nicht gut.<br/>
+    Denn welches Studium, welcher Beruf am besten zu Dir passt, das weißt nur Du. Wo liegen Deine Stärken, was
+    interessiert Dich, was reizt Dich? DU hast es in der Hand und kannst, darfst oder sollst entscheiden, was,
+    wo und wie Du studieren und anschließend arbeiten möchtest!<br/>
+    Auf diesen Seiten findest Du eine Menge Anregungen, Tipps und Informationen, die Dir dabei helfen, Dich selbst,
+    und das, was Du (nicht) willst, kennen zu lernen.<br/>
+    Geh die Seiten ganz entspannt durch, such Dir das heraus, was Dir hilft oder Dich interessiert.
+    Und lass Dich überraschen!<br/>
+    Vielleicht ist alles ganz klar, vielleicht kommst Du zu der Erkenntnis, dass ein Studium nicht das Richtige für
+    Dich ist. Alles ist gut, was Dich einen Schritt weiter bringt.<br/>
+    Und selbst wenn Du tatsächlich Deinen Traum-Studiengang findest und merkst nach ein, zwei Semestern,
+    dass er doch nicht so traumhaft ist: keine Entscheidung im Leben ist unumstößlich, und es ist sinnvoller,
+    ein paar Schritte zurück als einen als falsch erkannten Weg weiter zu gehen.<br/>
+    Wichtig ist, sich Zeit für die Entscheidung zu nehmen. Zum Nachdenken, zum Fragen stellen, zum Gespräche führen,
+    zum Sammeln von Informationen, zum Vergleichen, zum Ausprobieren. Denn die sorgfältige Vorbereitung auf ein Studium
+    erfordert etwa ein Jahr.</p>]]></string>
+    <string name="twentythirdText">Weitere Informationen!</string>
+    <string name="twentyfourthText"><![CDATA[<p><h1>Zeit bis zum Studium?</h1>
+    Du willst nicht gleich studieren oder es klappt nicht auf Anhieb mit dem gewünschten Studienplatz
+    (Alles zum Thema NC findest Du <a href="https://www.frankfurt-university.de/fileadmin/de/ServicefuerStudierende/Zentrale_Studienberatung/Bilder/NC_und_Wartezeiten.pdf">hier</a>)?  Es gibt viele Möglichkeiten, die Zeit zu nutzen. Durch eine Aus- oder Weiterbildung oder die Absolvierung von Praktika, die auf das Studium angerechnet werden. Durch einen Auslandsaufenthalt oder das Absolvieren eines Freiwilligendienstes.
+
+    <h2>Aus-/ und Weiterbildung:</h2>
+    Praktika – individuelle Dauer
+    Berufsausbildung – 2,5 bis 3,5 Jahre (<a href="http://www.arbeitsagentur.de/web/content/DE/BuergerinnenUndBuerger/Ausbildung/Berufsausbildung/index.htm">BfA</a>)
+
+    <h2>Auslandserfahrung:</h2>
+    "Work and Travel"<br/>
+    Europäischer Freiwilligendienst (EFD)<br/>
+    Entwicklungspolitischer Freiwilligendienst (<a href="http://www.bmz.de/de/was_wir_machen/wege/bilaterale_ez/zwischenstaatliche_ez/freiwillligendienst/">weltwärts</a>)
+
+    <h2>Freiwilliges Engagement:</h2>
+    Freiwilliges soziales Jahr (<a href="http://www.bmfsfj.de/BMFSFJ/Freiwilliges-Engagement/fsj-foej.html">FSJ</a>)<br/>
+    Freiwilliges ökologisches Jahr (<a href="http://www.bmfsfj.de/BMFSFJ/Freiwilliges-Engagement/fsj-foej.html">FÖJ</a>)<br/>
+    Bundesfreiwilligendienst (<a href="http://www.bmfsfj.de/BMFSFJ/Freiwilliges-Engagement/bundesfreiwilligendienst.html">BFD</a>)<br/>
+    Freiwilliger Wehrdienst  (<a href="http://www.bundeswehr.de/portal/a/bwde/!ut/p/c4/FckxDoAgDADAt_iBdnfzF-piChRoIEhKI99Xc-PhiZ9GjyQyuRtV3PHwsroJbgaGYcpiRYmjMUzO2mMVnw3iF1NqlcR6_RGE2zDsZVtex7NXXA!!/">FWD</a>)</p>]]></string>
+    <string name="twentyfifthText">Weitere Informationen!</string>
+	<string name="twentysixthText"><![CDATA[<p><h2>Bist Du dir noch nicht sicher, welcher Studiengang der richtige wäre?</h2>
+	Dann lass Dich bei der <a href="https://www.frankfurt-university.de/studium/beratung/dasteam1.html">Zentralen Studienberatung</a> beraten.<br/>
+
+	<h2>Möchtest Du Dich für einen offenen Studiengang einschreiben?</h2>
+	Dann komm bitte persönlich mit Deinen Unterlagen im <a href="https://www.frankfurt-university.de/studium/studienbuero.html">Studienbüro</a> vorbei.<br/>
+
+	<h2>Hast Du Dich für einen NC-Studiengang entschieden?</h2>
+	<a href="https://www.frankfurt-university.de/studium/bewerbung-und-einschreibung.html">Auf diesen Seiten</a> findest du Informationen zur Bewerbung an der Frankfurt University of Applied Sciences;
+	über das Online-Zulassungsportal kannst Du Dich für alle zulassungsbeschränkte Bachelor-Studiengänge bewerben. </p>]]></string>
+
+    <string name= "test"><b>Bold.</b>  <u>Underlined.</u> <br/> <i>Italic.</i> <b><big>Big.</big></b> <small>Small</small>
+    <a href="..."/> <b/> <big/> <blockquote/> <br/> <cite/> <dfn/> <div align="..."/> <em/>
+    <font size="..." color="..." face="..."/> <h1/> <h2/> <h3/> <h6/> <i/> <img src="..."/> <p/> <small/> <strike/>
+    <strong/> <sub/> <sup/> <tt/> <u/></string>
+    <string name="link"><a href="https://www.google.de">Google</a></string>
+
+    <!-- Studiengänge Activity -->
+    <string name="studiengaenge">Studiengänge</string>
+    <string name="triffAuswahl">Triff deine Auswahl</string>
+    <string name="spinnerDefault">Studienrichtung auswählen</string>
+    <string-array name="fachbereiche">
+        <item>Studienrichtung auswählen</item>
+        <item>Architektur, Bauingenieurwesen, Geomatik</item>
+        <item>Informatik und Ingenieurwissenschaften</item>
+        <item>Wirtschaft und Recht</item>
+        <item>Soziale Arbeit und Gesundheit</item>
+    </string-array>
+    <string name="infoStudiengang">Infos zum Studiengang</string>
+    <string name="buttonAuswahl">&lt; Zurück zur Auswahl</string>
+
+    <!-- Interessenstest -->
+    <string name="abbrechen">&lt; Test abbrechen</string>
+    <string name="Test_Titel">Finde heraus, was dir liegt!</string>
+    <string name="Test_Text">\nHast Du schon einmal wirklich darüber nachgedacht \n\n • was Du beruflich machen willst? \n • was Dich wirklich interessiert? \n • für was Du „brennst“? \n • welches Studienfach für Dich das richtige sein könnte? \n\nDiese Fragen kannst nur Du Dir ehrlich beantworten – keine Freunde, keine Lehrer, keine Eltern.\n\n<b>Wir haben einen Test vorbereitet, der Dir dabei hilft, Dir über deine Interessen besser klar zu werden, der Dir Impulse und Anregungen gibt, bei dem Du – nachdem Du ihn gemacht hast – vielleicht ganz neue Seiten an Dir entdeckst. Nimm Dir ein bisschen Zeit – und lass Dich von Dir überraschen!</b></string>
+    <string name="Test_Button">Hier geht es zum Test</string>
+
+    <!-- Studiengänge content -->
+    <!-- Info zu den Studiengängen - Headlines -->
+    <string name="profil">PROFIL DES STUDIENGANGS</string>
+    <string name="passt">PASST DAS ZU MIR?</string>
+    <string name="nachdemstudium">UND NACH DEM STUDIUM?</string>
+    <string name="mehrinfos">MEHR INFOS</string>
+
+    <!-- FB1 -->
+    <!-- Architektur -->
+    <string name="profilArchitektur">Dieser Studiengang bietet Dir Einblicke in alle wichtigen Aspekte von Architektur und Städtebau. Deine praxisorientierte Ausbildung umfasst die vielfältigen Betätigungsfelder des Planens und Bauens. Du erwirbst Kenntnisse über Materialien, Techniken, Räume und Gebäude.\n\nIn anspruchsvollen Projekten lernst Du kreativ zu gestalten, detailliert zu entwerfen und genau zu konstruieren.</string>
+    <string name="passtArchitektur">Du solltest Dich für Technik und Materialien interessieren, ein gutes räumliches Vorstellungsvermögen und gestalterisches Geschick besitzen, gut in Mathematik sein und gerne organisieren und im Team arbeiten.
+    \n\nEigenverantwortliches Handeln, geistige Beweglichkeit und die Bereitschaft und Fähigkeit zu gemeinsamer Lösungsentwicklung werden gefördert. Die anwendungsbezogene Ausbildung vermittelt ein hohes Maß an Allgemein- und Spezialwissen sowie Kommunikations- und Teamfähigkeit.</string>
+    <string name="nachdemstudiumArchitektur">Du kannst Dich an einer Vielfalt von Planungen beteiligen: von der Planung des Entwurfs und der Baugenehmigung bis zur Ausführungsplanung, von der Planung von Innenräumen bis zur Städteplanung. Außerdem kannst Du das Management eines Bauprojekts übernehmen oder Baustellen koordinieren.
+    \n\nMit dem Studienabschluss bist Du für Architektur- und Planungsbüros qualifiziert zur Mitarbeit in allen Leistungsphasen der Honorarordnung für Architekten und Ingenieure. Ergänzend zu den klassischen Arbeitsfeldern bieten sich Berufsmöglichkeiten in der Immobilienwirtschaft, Gebäudeverwaltung und in öffentlichen Einrichtungen.</string>
+    <string name="mehrinfosArchitektur">Zahlreiche praktische Übungen finden in Laboren und Werkstätten des Fachbereichs statt.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb-1-architektur-bauingenieurwesen-geomatik/bachelor-studiengaenge/architektur-b-a.html">Weitere Informationen</a></string>
+
+    <!-- Bauingenieurwesen -->
+    <string name="profilBauingenieur">Das Bauingenieurwesen umfasst sämtliche Fachgebiete des Bauens. Du erfährst, wie Naturwissenschaften im Bauwesen praktisch angewandt werden, und lernst zum Beispiel die unterschiedlichen Eigenschaften von Baustoffen und den Einfluss des Baugrundes auf Bauten kennen.
+    \n\nDarüber hinaus lernst Du, wie Straßen oder Anlagen der Wasserwirtschaft geplant und gebaut werden. Schließlich beschäftigst Du Dich mit der Kalkulation von Bauprojekten. Im Mittelpunkt Deines Studiums stehen die Grundfertigkeiten des Planens, Vermessens und Bauens.</string>
+    <string name="passtBauingenieur">Du solltest gute mathematische und naturwissenschaftliche Kenntnisse besitzen und Dich für Technik und Bauten interessieren. Deine Teamfähigkeiten sind ebenfalls wichtig für ein erfolgreiches Studium.</string>
+    <string name="nachdemstudiumBauningenieur">Du kannst Bauwerke aller Art sowie Einrichtungen der Infrastruktur planen und konstruieren, bauen und betreiben, überwachen und kontrollieren. Du bist in der Lage, nach technischen, ökonomischen, ökologischen und rechtlichen Maßstäben verantwortungsbewusst zu urteilen und zu handeln.\n\nFür Dich wird die Situation auf dem Arbeitsmarkt sehr günstig sein, denn die Bauwirtschaft sucht dringend qualifizierten und motivierten Nachwuchs. Tätig werden kannst Du in Bauunternehmen im Hoch- und Tiefbau, in Ingenieur- und Planungsbüros sowie in technischen Verwaltungen der Kommunen, Länder und des Bundes. Arbeit finden kannst Du auch in Firmen, die Dienstleistungen anbieten für das Management von Gebäuden, der Verkehrsinfrastruktur und der Wasserwirtschaft, oder in Organisationen, die in der technischen Entwicklungshilfe engagiert sind.</string>
+    <string name="mehrinfosBauingenieur">Vor Beginn Deines Studiums musst Du ein 8-wöchiges Berufspraktikum in einem Betrieb der Bauwirtschaft absolvieren.
+    \n\nZahlreiche praktische Übungen finden in Laboren und Werkstätten des Fachbereichs statt.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb-1-architektur-bauingenieurwesen-geomatik/bachelor-studiengaenge/bauingenieurwesen-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- Bauingenieurwesen (Dual)-->
+    <string name="profilBauingenieurDual">Der Bachelor-Studiengang Bauingenieurwesen dual verbindet Dein Studium des Bauingenieurwesens mit Deiner Ausbildung zur Facharbeiterin oder zum Facharbeiter in einem der folgenden Bauberufe: Maurer, Beton- und Stahlbetonbauer, Zimmerer, Kanal- oder Rohrleitungsbauer.
+    \n\nDas Bauingenieurwesen umfasst sämtliche Fachgebiete des Bauens. Im Mittelpunkt Deines Studiums steht eine praxisorientierte Ingenieurausbildung in den Grundfertigkeiten des Planens, Vermessens und Bauens. </string>
+    <string name="passtBauingenieurDual">Du solltest gute mathematische und naturwissenschaftliche Kenntnisse besitzen, Dich für Technik und Bauten interessieren sowie teamfähig sein.</string>
+    <string name="nachdemstudiumBauningenieurDual">Du kannst Bauten aller Art und Einrichtungen der Infrastruktur planen und konstruieren, bauen und betreiben, überwachen und kontrollieren und außerdem Materialien umweltgerecht entsorgen. Du bist in der Lage, nach technischen, ökonomischen, ökologischen und rechtlichen Maßstäben verantwortungsbewusst zu urteilen.
+    \n\nFür Dich wird die Situation auf dem Arbeitsmarkt sehr günstig sein, denn die Bauwirtschaft sucht dringend qualifizierten und motivierten Nachwuchs. Tätig werden kannst Du in Bauunternehmen im Hoch- und Tiefbau, in Ingenieur- und Planungsbüros sowie in technischen Verwaltungen der Kommunen, Länder und des Bundes. Arbeit findest Du auch in Firmen, die Dienstleistungen anbieten für das Management von Gebäuden, der Verkehrsinfrastruktur und der Wasserwirtschaft, oder in Organisationen, die in der technischen Entwicklungshilfe engagiert sind.</string>
+    <string name="mehrinfosBauingenieurDual">Du bewirbst Dich bei einem Ausbildungsbetrieb, der Dich dann an der Fachhochschule immatrikuliert. Du arbeitest in diesem Betrieb und wirst dafür bezahlt. In den ersten acht Monaten des Studiums liegt der Schwerpunkt auf der Ausbildung im gewählten Bauberuf.
+    \n\nDie überbetriebliche Ausbildung erfolgt im EBL-Bildungszentrum Frankfurt am Main des Bildungswerk Hessen-Thüringen e.V. und die betriebliche Ausbildung im gewählten Ausbildungsbetrieb.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb-1-architektur-bauingenieurwesen-geomatik/bachelor-studiengaenge/bauingenieurwesen-dual-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- GEOINFORMATION UND KOMMUNALTECHNIK -->
+    <string name="profilGeol">Dieser Studiengang bildet geodätische Ingenieurinnen und Ingenieure aus. Was früher Landvermessung war, arbeitet heute viel umfassender mit Geoinformationssystemen, die die Erde, Landschaften und Städte, Räume und Infrastrukturen detailliert erfassen und dokumentieren.
+    \n\nAuf der Basis raumbezogener Daten kannst Du Aufgaben der Stadt- und der Flächenplanung wahrnehmen. Zusätzlich vermittelt Dir das Studium das nötige rechtliche und wirtschaftliche Wissen.</string>
+    <string name="passtGeo">Du solltest Dich für Naturwissenschaften und Raumplanung interessieren, gut in Mathematik sein und gute Englisch- sowie EDV-Kenntnisse haben.</string>
+    <string name="nachdemstudiumGeo">Deine zukünftigen Arbeitgeber sind Stadtplanungsämter, technische Rathäuser und Behörden, Energieversorger, Forstverwaltungen, Ingenieur- und Planungsbüros, auf Vermessung und Geoinformation spezialisierte Firmen sowie die Bau- und Immobilienwirtschaft.
+    \n\nDie Nutzung von Geoinformationssystemen entwickelt sich zu einer der dynamischsten Wachstumsbranchen. Zunehmend werden Karten digital und interaktiv für das Internet aufbereitet. Du kannst an solchen Systemen und Karten arbeiten und ihre Daten für planerische Zwecke nutzen, 3D-Stadtmodelle entwerfen oder intelligente Navigationssysteme konstruieren. In der Kommunaltechnik berücksichtigst Du räumliche Zusammenhänge, etwa bei der Flächennutzungsplanung oder bei der Verwaltung kommunaler Infrastrukturen.</string>
+    <string name="mehrinfosGeo">Schon während des Studiums arbeitest Du mit Kommunen, Behörden, Verbänden und Firmen zusammen.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb-1-architektur-bauingenieurwesen-geomatik/bachelor-studiengaenge/geoinformation-und-kommunaltechnik-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- FB2 -->
+    <!-- BIOVERFAHRENSTECHNIK -->
+    <string name="profilBio">Die Bioverfahrenstechnik ist ein Ingenieurfach. Sie entwickelt und leitet biotechnologische Anlagen und Prozesse, mit deren Hilfe hochwertige Produkte für die Gesundheit und Ernährung hergestellt werden, wie Arzneimittel, Kosmetika und Lebensmittel.</string>
+    <string name="passtBio">Du solltest Dich für Naturwissenschaften und Technik interessieren, gut in Mathematik sein, analytisch denken können und gute Englischkenntnisse haben. Auch Deine Teamfähigkeit ist gefragt.</string>
+    <string name="nachdemstudiumBio">Die beruflichen Anwendungen Deiner Kenntnisse sind sehr vielfältig: Du kannst neue Apparate planen und anfertigen, Prozesse optimieren, um z.B. aus Zellkulturen neue Medikamente zu gewinnen, Verfahren erproben und Messungen durchführen. Du kannst jedoch auch im technischen Vertrieb tätig sein oder Kunden beim Betrieb neuer Anlagen beraten.
+    \n\nDie Bioverfahrenstechnik ist Teil der „Life Science“, einer rasch wachsenden Zukunftstechnologie. Dir werden verschiedene Branchen offen stehen, die sich mit Biotechnologie befassen: Pharmazie und Medizin, die Kosmetische Industrie, die Lebensmittelindustrie und die Chemische Industrie. Außerdem kannst Du in der Umwelttechnik arbeiten, etwa bei der Abwasserreinigung, oder in der Produktion erneuerbarer
+    Energien aus Biorohstoffen.</string>
+    <string name="mehrinfosBio">Während des Studiums erwirbst Du zusätzlich zum naturwissenschaftlichen Fachwissen und zur technischen Praxiserfahrung in den Laboren der FRA-UAS noch betriebswirtschaftliche Qualifikationen.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/bioverfahrenstechnik-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- WIRTSCHAFTSINFORMATIK (INTERNATIONAL) -->
+    <string name="profilWirtschaftsinfoInt">Dieser internationale Studiengang ist fächerübergreifend: Er kombiniert Betriebswirtschaft und Informatik mit Wissen über dazugehörige Rechtsgrundlagen in der EU und im angloamerikanischen Raum. Dabei lernst Du die Unterschiede im Wirtschafts- und im Datenschutzrecht kennen.
+    \n\nDaneben erwirbst Du fremdsprachliche Kenntnisse und interkulturelle Kompetenzen, die wichtig für die Kommunikation mit Kunden im Ausland sind.</string>
+    <string name="passtWirtschaftsinfoInt">Du solltest Dich für wirtschaftliche Zusammenhänge und Informatik interessieren, gut in Mathematik sein und analytisch denken können. Auch solltest Du gute Englischkenntnisse haben und gerne im Team arbeiten.</string>
+    <string name="nachdemstudiumWirtschaftsinfoInt">Du kannst im IT-Projektmanagement arbeiten, programmieren und komplexe Anwendungen für betriebswirtschaftliche Fragestellungen im In- und Ausland entwerfen. Du kannst auch Datenbanken und Wissensmanagement-Systeme aufbauen, die Effektivität und Sicherheit von IT-Systemen untersuchen oder das Management von Kundenbeziehungen übernehmen und verbessern.
+    \n\nZudem kannst Du im Marketing und im Vertrieb tätig werden. Du besitzt gesuchte Qualifikationen für Unternehmen, nicht nur der IT-Branche, welche global expandieren und die unterschiedlichen wirtschafts- und datenrechtlichen Bedingungen ihrer
+    Kunden berücksichtigen müssen.</string>
+    <string name="mehrinfosWirtschaftsinfoInt">Aufgrund der internationalen Ausrichtung des Studiums ist ein Auslandssemester Pflicht.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/business-information-systems-international-b-sc.html">Weitere Informationen</a></string>
+
+    <!-- WIRTSCHAFTSINFORMATIK (TRANSNATIONAL) -->
+    <string name="profilWirtschaftsinfoTrans">Dieses Studium „rund um den Globus“ ist für Studierende gedacht, die ihre berufliche Zukunft im Ausland und in multinationalen Teams sehen. Der Studiengang ist fächerübergreifend: Er kombiniert Betriebswirtschaft und Informatik mit Wissen über Unterschiede im Wirtschafts- und im Datenschutzrecht.
+    \n\nDaneben erwirbst Du interkulturelle Kompetenzen, die Deine Fachkenntnisse über Kulturgrenzen hinweg in den immer zahlreicheren internationalen Projekten unterstützen.</string>
+    <string name="passtWirtschaftsinfoTrans">Du solltest Dich für wirtschaftliche Zusammenhänge und Informatik interessieren, gut in Mathematik sein und analytisch denken können. Auch solltest Du gute Englischkenntnisse haben und gerne im Team arbeiten.</string>
+    <string name="nachdemstudiumWirtschaftsinfoTrans">Du besitzt gesuchte Qualifikationen für Unternehmen, nicht nur der IT-Branche, welche global expandieren und die unterschiedlichen wirtschafts- und datenrechtlichen Bedingungen ihrer Kunden berücksichtigen müssen.
+    \n\nDu kannst im IT-Projektmanagement arbeiten, programmieren und komplexe Anwendungen für betriebswirtschaftliche Fragestellungen im In- und Ausland entwerfen. Du kannst auch Datenbanken und Wissensmanagement-Systeme aufbauen, die Effektivität und Sicherheit von IT-Systemen untersuchen oder das Management von Kundenbeziehungen übernehmen und verbessern. Zudem kannst Du im Marketing und im Vertrieb tätig werden.</string>
+    <string name="mehrinfosWirtschaftsinfoTrans">Aufgrund der transnationalen Ausrichtung des Studiums ist jeweils ein Auslandssemester an den drei beteiligten Partnerhochschulen Pflicht.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/business-information-systems-transnational-b-sc.html">Weitere Informationen</a></string>
+
+    <!-- ELEKTROTECHNIK UND KOMMUNIKATIONSTECHNIK -->
+    <string name="profilElektrotechnik">Dieser Studiengang verbindet Elektrotechnik und Kommunikationstechnik. Er baut auf elektrotechnischem Grundwissen auf und bringt Dir bei, Hardwarekomponenten und Softwareprogramme zu entwickeln.
+    \n\nDu lernst auf dem neuesten technischen Stand Kommunikationssysteme und –netze kennen. Das Studium qualifiziert Dich dazu, in interdisziplinärer Teamarbeit für spezifische Anforderungen effiziente Lösungen anbieten zu können.</string>
+    <string name="passtElektrotechnik">Du solltest Dich für Naturwissenschaften und Technik interessieren, gut in Mathematik sein und gute Englischkenntnisse haben.</string>
+    <string name="nachdemstudiumElektrotechnik">Da Du von Grund auf gelernt hast, wie Kommunikationssysteme funktionieren, reichen Deine Kompetenzen von der Entwicklung technischer Bestandteile wie Schaltungen über das Programmieren bis zur Planung und zum Betrieb ganzer Kommunikationssysteme und –netze. Du bist auch für die Qualitätssicherung des Systems oder die technische Kundenberatung befähigt.
+    \n\nIm expandierenden Bereich der Kommunikationssysteme hast Du viele Möglichkeiten. Du kannst Aufgaben in der Industrie, in Planungsbüros und in öffentlichen Institutionen übernehmen. Dort kannst Du in der Forschung, in der Fertigung, im Vertrieb, Service oder Marketing arbeiten.</string>
+    <string name="mehrinfosElektrotechnik">Das Programm dieses Studiengangs ist so attraktiv, dass große überregionale Firmen Interesse an einer kooperierenden Ausbildung zeigen.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/elektrotechnik-und-kommunikationstechnik-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- ENERGIEEFFIZIENZ UND ERNEUERBARE ENERGIEN - ELEKTROTECHNIK -->
+    <string name="profilEnergie">Nachdem dieser Studiengang Dich mit Grundlagen der Mathematik, Physik und Elektrotechnik vertraut gemacht hat, kannst Du Dich auf die effiziente Nutzung und Speicherung einer erneuerbaren Energie wie zum Beispiel der Solarenergie oder der Windkraft spezialisieren.</string>
+    <string name="passtEnergie">Du solltest Dich für Naturwissenschaften und Technik interessieren, gut in Mathematik sein und gute Englischkenntnisse haben.</string>
+    <string name="nachdemstudiumEnergie">Im Bereich der Energieerzeugung und Energieversorgung kannst Du Dich an der Planung, Entwicklung und Konstruktion von Bauelementen, Motoren, Kraftwerken, Umspannanlagen und Leitungsnetzen beteiligen.
+    \n\nDu kannst auch im Vertrieb, in der technischen Kundenberatung oder in der Qualitätssicherung tätig werden. Oder Du entscheidest Dich dafür, Verfahren zur Nutzung und Speicherung erneuerbarer Energie zu optimieren.
+    \n\nDein Wissen ist in der Elektroindustrie und im Maschinenbau ebenso gefragt wie bei Stadtwerken und Stromnetzbetreibern, in Ingenieur- und Planungsbüros für die Energieversorgung, bei Behörden und Verbänden oder in Instituten.</string>
+    <string name="mehrinfosEnergie">Zahlreiche praktische Übungen finden in den Laboren und Werkstätten des Fachbereichs statt.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/energieeffizienz-und-erneuerbare-energien-elektrotechnik-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- INFOMATIK - MOBILE ANWENDUNGEN -->
+    <string name="profilInformatikMob">Im Studiengang Informatik lernst Du das Programmieren von Hard- und Software und das Software-Engineering mit den Schwerpunkten mobile Systeme, Betriebssysteme, Datenbanken und Netzwerke. Zu den Grundlagenfächern gehören Algebra, Statistik und Numerik.
+    \n\nDu vertiefst Dein Wissen, indem Dir beigebracht wird, informationswissenschaftliche Fragestellungen des Ubiquitous Computing besonders bei mobilen und verteilten Anwendungen zu beherrschen.</string>
+    <string name="passtInformatikMob">Du solltest Dich für Computer interessieren, gut in Mathematik sein, logisch und analytisch denken können, gute Englischkenntnisse haben und gerne Probleme lösen.</string>
+    <string name="nachdemstudiumInformatikMob">Du bist in der Lage, in allen Bereichen zu arbeiten, die sich mit der Konzeption, Entwicklung und dem Einsatz software-technischer Systeme, vor allem für mobile Anwendungen, befassen. Du bist sehr gut qualifiziert für diverse Tätigkeiten in Wirtschaft, Technik und Verwaltung.</string>
+    <string name="mehrinfosInformatikMob">Im 6. Semester dieses Studiengangs ist eine Praxisphase in einem Betrieb vorgesehen.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/informatik-mobile-anwendungen-b-sc.html">Weitere Informationen</a></string>
+
+    <!-- INFOMATIK -->
+    <string name="profilInformatik">Im Studiengang Informatik lernst Du das Programmieren von Hardware und das methodische Entwickeln von Programmen auf der Basis des Software-Engineerings sowie die dafür erforderlichen Grundlagenfächer, die Mathematik und theoretische Informatik beinhalten.
+    \n\nDie Anwendung des Gelernten erfolgt während des Studiums in Projekten, die nach den besten Lösungen für anspruchsvolle IT-Aufgaben suchen.</string>
+    <string name="passtInformatik">Du solltest Dich für Computer interessieren, gut in Mathematik sein, logisch und analytisch denken können, gute Englischkenntnisse haben und gerne Probleme lösen.</string>
+    <string name="nachdemstudiumInformatik">Zur Auswahl hast Du eine große Vielfalt an Betätigungsfeldern: in der Programmierung, in der Systemadministration oder im IT-Sicherheitsmanagement, beim Beraten und Schulen von Kunden, im Marketing oder im Vertrieb.
+    \n\nInformatikerinnen und Informatiker sind als "Generalisten" in der Wirtschaft, Forschung und Technik sowie in der Verwaltung sehr gesucht. Du kannst also sowohl in privaten Firmen als auch in öffentlichen Einrichtungen tätig werden oder selbstständig arbeiten. Und die Themenbereiche und Branchen reichen von der Medizin über die Automobilindustrie bis zur Luft- und Raumfahrt.</string>
+    <string name="mehrinfosInformatik">Im 6. Semester dieses Studiengangs ist eine Praxisphase in einem Betrieb vorgesehen.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/informatik-b-sc.html">Weitere Informationen</a></string>
+
+    <!-- INFORMATIONSSYSTEMTECHNIK -->
+    <string name="profilInformationssystemtechnik">Dieser Studiengang kombiniert die Elektrotechnik mit der Informatik. Dabei erwirbst Du fundiertes Wissen über Digitale Systeme, hardwarenahe Programmierung, Robotik, Sensoren und Aktoren, Signalverarbeitung, Mikrocontroller und Regelungstechnik.
+    \n\nDu lernst Problemstellungen der Hard- und Software-Entwicklung in interdisziplinären Teams zu analysieren und effiziente Lösungen zu entwickeln.</string>
+    <string name="passtInformationssystemtechnik">Du solltest Dich für Computer und Technik interessieren, gut in Mathematik sein und gute Englischkenntnisse haben.</string>
+    <string name="nachdemstudiumInformationssystemtechnik">Du kannst Dich in der Forschung und Produktentwicklung betätigen und beispielsweise komplexe Systeme wie Roboter, Fahrer-Assistenzsysteme oder intelligente Sensoren konstruieren, jedoch auch im Vertrieb, Marketing oder Service arbeiten.
+    \n\nIn der Industrie stehen Dir Ingenieurbereiche wie die Kraftfahrzeugtechnik, die Automatisierungstechnik und die Medizintechnik offen. Auch Planungsbüros und öffentliche Institutionen stellen Dich mit Deiner Qualifikation gerne ein.</string>
+    <string name="mehrinfosInformationssystemtechnik">Dieser Studiengang sieht ein berufspraktisches Semester vor, in dem die an der FRA-UAS erworbenen Kenntnisse in einem Unternehmen erweitert werden.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/informationssystemtechnik-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- MASCHINENBAU -->
+    <string name="profilMaschinenbau">Das Maschinenbaustudium ist sehr breit angelegt, vermittelt solide Grundlagen in Werkstoffkunde, Mechanik, Statik, Kinetik, Thermodynamik und Elektronik und zeigt deren Anwendungen. Du erlangst die Kompetenz, anhand modernster Fertigungstechniken Maschinen und Anlagen zu entwickeln und zu konstruieren.
+    \n\nMöglich sind Spezialisierungen, zum Beispiel in der Kraftfahrzeugtechnik.</string>
+    <string name="passtMaschinenbau">Du solltest Dich für Naturwissenschaften und Technik interessieren, gut in Mathematik und Physik sein und gute Englischkenntnisse haben.</string>
+    <string name="nachdemstudiumMaschinenbau">Du wirst Dich mit Maschinen und Anlagen beschäftigen. Du bist in der Lage, Prototypen zu entwickeln und zu konstruieren, selbst Konstruktionszeichnungen anzufertigen und die Montage von Maschinen und Anlagen zu planen. Du kannst Maschinen und Anlagen auch betreiben, warten, vertreiben oder Kunden bei ihrer Anwendung beraten.
+    \n\nDu besitzt eine gefragte Qualifikation für Betriebe des Maschinen- und Anlagenbaus, des Elektromaschinen- und Fahrzeugbaus. Du kannst auch für Hersteller von Elektrogeräten, von Geräten der Mess-, Steuerungs- und Regelungstechnik, von Medizintechnik sowie für Energieversorger arbeiten. Außerdem kannst Du in Ingenieurbüros für technische Planung oder in der öffentlichen Verwaltung tätig werden.</string>
+    <string name="mehrinfosMaschinenbau">Zahlreiche praktische Übungen finden in Laboren und Werkstätten des Fachbereichs statt.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/maschinenbau-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- MASCHINENBAU - SPAN.-DT. DOPPELABSCHLUSS -->
+    <string name="profilMaschinenbauDoppel">Durch diesen Studiengang, den die Frankfurt University of Applied Sciences in Kooperation mit der spanischen Universidad de Cádiz durchführt, wirst Du für anspruchsvolle Ingenieuraufgaben in der industriellen Praxis qualifiziert.
+    \n\nDas Maschinenbaustudium ist sehr breit angelegt, vermittelt solide Grundlagen in physikalischen Fächern, zeigt deren technische Anwendungen und befähigt Dich dazu, anhand modernster Fertigungstechniken Maschinen und Anlagen zu entwickeln und zu konstruieren.
+    \n\nIm Verlauf von acht Semestern erwirbst Du zwei Abschlussgrade: den deutschen Bachelor of Engineering sowie den spanischen Ingeniero Técnico Industrial, Especialidad Mecánica.</string>
+    <string name="passtMaschinenbauDoppel">Du solltest Dich für Naturwissenschaften und Technik interessieren, gut in Mathematik und Physik sein, fortgeschrittene Spanisch- und gute Englischkenntnisse haben.</string>
+    <string name="nachdemstudiumMaschinenbauDoppel">Du wirst Dich mit Maschinen und Anlagen beschäftigen. Du bist in der Lage, Prototypen zu entwickeln und zu konstruieren, selbst Konstruktionszeichnungen anzufertigen und die Montage der Maschinen und Anlagen zu planen. Du kannst die Maschinen und Anlagen auch betreiben, warten, vertreiben oder Kunden bei ihrer Anwendung beraten.
+    \n\nDein Doppelabschluss verschafft Dir gute Chancen bei Unternehmen, die in spanischsprachigen Ländern aktiv sind, vor allem in der Automobilbranche und bei ihren Zulieferern. Auch für Betriebe des Maschinen- und Anlagenbaus besitzt Du eine gefragte Qualifikation, ebenso für Hersteller von Elektrogeräten, von Geräten der Mess-, Steuerungs- und Regelungstechnik, von Medizintechnik und für Energieversorger. Du kannst außerdem in Ingenieurbüros für technische Planung oder in der öffentlichen Verwaltung tätig werden.</string>
+    <string name="mehrinfosMaschinenbauDoppel">Der Studiengang wird vom DAAD gefördert.\n\nZahlreiche praktische Übungen finden in Laboren und Werkstätten des Fachbereichs statt.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/maschinenbau-dt-span-doppelabschluss-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- MECHATRONIK -->
+    <string name="profilMechatronik">Der Studiengang Mechatronik kombiniert fächerübergreifend Mechanik, Elektronik und Informatik. Er qualifiziert Dich für anspruchsvolle Tätigkeiten in vielen Ingenieurberufen, zum Beispiel in der Kraftfahrzeugtechnik oder der Medizintechnik.
+    \n\nHier lernst Du alles Wichtige über mechanische Bauteile wie Motoren, elektronische Steuerungselemente und deren Programmierung. Ein typisches Anwendungsgebiet der Mechatronik ist der gesamte Bereich der Automatisierung.</string>
+    <string name="passtMechatronik">Du solltest Dich für Naturwissenschaften und Technik interessieren, gut in Mathematik und Physik sein und gerne im Team arbeiten. Für auf Englisch gehaltene Lehrveranstaltungen solltest Du über ausreichende Sprachkenntnisse verfügen.</string>
+    <string name="nachdemstudiumMechatronik">Deine Qualifikation befähigt Dich dazu, Maschinen mit mechanischen, elektrischen und elektronischen Komponenten zu entwickeln, zu konstruieren, zu montieren und deren automatisierte Arbeitsprozesse zu kontrollieren.
+    \n\nDu kannst jedoch auch in der Qualitätssicherung, im Vertrieb oder im Service tätig werden. Da Dein Studium sehr vielfältig ist, hast Du auch gute Berufschancen für die Leitung technischer Projekte.
+    \n\nDu hast eine Vielzahl von Möglichkeiten: im Maschinen- und Anlagenbau, in Unternehmen der Automobil- und Luftfahrtindustrie und in der Elektrotechnik. Auch in der Automatisierungstechnik und Robotik, der Mikrosystem- und Feinwerktechnik und der Medizintechnik ist Dein Wissen gefragt. Außerdem kannst Du in der Print- und Medientechnik oder in der Audio- und Videoindustrie arbeiten.</string>
+    <string name="mehrinfosMechatronik">Zahlreiche praktische Übungen finden in Laboren und Werkstätten des Fachbereichs statt. Die guten Kontakte der FRA-UAS zu anderen Hochschulen ermöglicht auch Auslandssemester und Praktika im Ausland.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/mechatronik-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- PRODUKTENTWICKLUNG UND TECHNISCHES DESIGN -->
+    <string name="profilProduktentwicklung">Der Studiengang Produktentwicklung und Technisches Design verbindet Maschinenbau, Materialkunde und Industriedesign. Dabei lernst Du computergestützte Techniken der Entwicklung, Konstruktion, Fertigung und des Designs und erlangst die Fähigkeit, funktionale, genehmigungsfähige, benutzerfreundliche und kostengünstige Produkte der Industrie mit zeitgemäßem Design zu konstruieren.
+    \n\nWeiterhin erwirbst Du Spezialwissen, etwa über neue Werkstoffe, Computersimulation, Designstrategien und die Positionierung neuer Produkte auf dem Markt.</string>
+    <string name="passtProduktentwicklung">Du solltest Dich für Naturwissenschaften und Technik interessieren, gut in Mathematik und Physik sein und gerne mit Computern arbeiten.</string>
+    <string name="nachdemstudiumProduktentwicklung">Du besitzt die Kompetenz, Industrieprodukte ihrer Funktion entsprechend zu konstruieren, maschinell herzustellen und kreativ zu gestalten und dafür die geeigneten Materialien auszuwählen. Du bist auch fähig, die Kommunikation zwischen Maschinenbau und Industriedesign zu koordinieren, die Funktionen von Produkten zu dokumentieren oder deren Präsentation zu organisieren.
+    \n\nMit Deiner Qualifikation stehen Dir viele Arbeitsmöglichkeiten offen. Sie reichen von der industriellen Fertigung über das Marketing bis zum Handel und von der Automobilindustrie über Ingenieurbüros bis zu Instituten für Materialprüfung.</string>
+    <string name="mehrinfosProduktentwicklung">Zahlreiche praktische Übungen finden in Laboren und Werkstätten des Fachbereichs statt.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/produktentwicklung-und-technisches-design-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- SERVICE ENGINEERING -->
+    <string name="profilServiceengineering">Das Studium der technischen Grundlagen entspricht weitgehend dem Maschinenbaustudium, denn Du brauchst technisches Grundwissen, um komplexe Maschinen und Anlagen zu verstehen. Ergänzend zur umfassenden Produktkenntnis erwirbst Du betriebswirtschaftliche, marketingorientierte und interkulturell-kommunikative Kompetenzen.
+    \n\nWenn Du technisches und betriebswirtschaftliches Wissen mit einer starken Kundenorientierung verbinden möchtest und offen für internationale Kunden und andere Kulturen bist, dann bietet sich dieser Studiengang für Dich an.</string>
+    <string name="passtServiceengineering">Du solltest Dich für Naturwissenschaften und Technik interessieren, gut in Mathematik und Physik sein, gute Englischkenntnisse haben und gerne mit Menschen kommunizieren, die Deine Hilfe in Anspruch nehmen.</string>
+    <string name="nachdemstudiumServiceengineering">Neben den klassischen Aufgaben der Beratung, Betreuung und Schulung von Kunden, der Ersatzteilbeschaffung, Wartung und Reparatur von Maschinen und Anlagen kannst Du zunehmend neue Dienstleistungen übernehmen und entwickeln, wie etwa Fernservices mit Hotlines oder Online-Updates.
+    \n\nDu kannst auch im Marketing oder Vertrieb tätig werden und das Geschäftsfeld Customer Services im Management vertreten.
+    \n\nDa die deutschen Maschinen- und Anlagenbauer rund 20 Prozent ihres Umsatzes im Bereich Customer Services erwirtschaften, wird guter Service zunehmend wichtiger. Du kannst für die Großindustrie und für mittelständische Betriebe tätig werden, die im Maschinen- und Anlagenbau, in der Automobil-, Luftfahrt-, Energieversorgungs- oder Konsumgüterindustrie angesiedelt sind und Serviceleistungen erbringen.</string>
+    <string name="mehrinfosServiceengineering">Zahlreiche praktische Übungen finden in Laboren und Werkstätten des Fachbereichs statt.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/service-engineering-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- WIRTSCHAFTSINGENIEURWESEN ONLINE -->
+    <string name="profilWirtschaftsingenieurswesen">Dieser Studiengang bildet Dich zu einer interdisziplinären Führungskraft aus, einerseits in den Natur- und Ingenieurwissenschaften und andererseits in den Rechts- und Wirtschaftswissenschaften. Damit bist Du hervorragend geeignet, die Wissensgrenzen und Denkbarrieren zwischen Technologie und Management, Wirtschaft und Wissenschaft zu überwinden.
+    \n\nIndem das Studium auch Deine soziale Kompetenz stärkt, wirst du befähigt, an allen Schnittstellen eines Unternehmens integrierend zu wirken.</string>
+    <string name="passtWirtschaftsingenieurswesen">Du solltest Dich für Naturwissenschaften, Technik und Wirtschaft interessieren, gut in Mathematik und Physik sein und gute Englischkenntnisse haben.</string>
+    <string name="nachdemstudiumWirtschaftsingenieurswesen">Mit Deinen fachübergreifenden Kompetenzen bist Du in fast allen Unternehmensbereichen einsetzbar, besonders aber an den Schnittstellen zwischen technischer Entwicklung und Fertigung und dem Management.
+    \n\nDeine möglichen Betätigungsfelder reichen von der Produktionsplanung bis zur Logistik, von der Unternehmensplanung bis zur Organisationsentwicklung und vom Controlling bis zum Marketing.
+    \n\nDu kommst in der Industrie auf nationaler wie auf internationaler Ebene unter. Du kannst in der Privatwirtschaft und im öffentlichen Dienst tätig werden.</string>
+    <string name="mehrinfosWirtschaftsingenieurswesen">Dieser Studiengang wird als Online-Studiengang im Rahmen der Virtuellen Hochschule angeboten. Du lernst damit durch E-Learning, Videokonferenzen, Foren usw. Nur etwa 10 Prozent der Lehrveranstaltungen und Prüfungen finden direkt an der FRA-UAS statt, überwiegend an Freitagen und Samstagen. Du kannst diesen Studiengang also während einer Berufstätigkeit absolvieren.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb2/studiengaengefb2/bachelor-studiengaenge/wirtschaftsingenieurwesen-online-b-eng.html">Weitere Informationen</a></string>
+
+    <!-- FB3 -->
+    <!-- BETRIEBSWIRTSCHAFT -->
+    <string name="profilBetriebswirtschaft">Der breitgefächerte Studiengang vermittelt ein solides Grundwissen in Betriebs- und Volkswirtschaftslehre sowie in Rechts- und Sozialwissenschaften. Du lernst, wie Unternehmen funktionieren und wie knappe Ressourcen optimal zu managen sind.
+    \n\nAls Schwerpunkte bietet das Studium Dir zur Auswahl und Spezialisierung: Finanzierung, Marketing, Personal- und Organisationsmanagement, Produktionsmanagement und Logistik, Betriebliche Steuerlehre, Prüfungswesen und Controlling.</string>
+    <string name="passtBetriebswirtschaft">Du solltest Dich für wirtschaftliche Zusammenhänge und Aktivitäten interessieren, gut in Mathematik sein und analytisch denken können. Auch solltest Du gute Englischkenntnisse haben und gerne im Team arbeiten.</string>
+    <string name="nachdemstudiumBetriebswirtschaft">Entsprechend Deiner Spezialisierung kannst Du Dich im Marketing oder im Controlling, im Verkauf oder im Vertrieb, im Personal- oder im Prüfungswesen betätigen. Du kannst auch Finanzdienstleistungen erbringen oder einer anderen Managementtätigkeit nachgehen, etwa in einem Projekt zur Auswertung betrieblicher Datenbanken.
+    \n\nDu hast viele Möglichkeiten: in privaten und öffentlichen Unternehmen, in Verwaltungen und sozialen Einrichtungen, im Versicherungswesen und im Finanzsektor. Du kannst Dich auch selbstständig machen.</string>
+    <string name="mehrinfosBetriebswirtschaft">Zusätzlich zu den Studienschwerpunkten bietet sich Dir die Wahl spezieller Fachkenntnisse aus einem Katalog von sechzehn Optionen, darunter vier Fremdsprachen, zum Beispiel Wirtschaftsfranzösisch.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb3/studiengaenge/bachelor-studiengaenge/betriebswirtschaft.html">Weitere Informationen</a></string>
+
+    <!-- BETRIEBSWIRTSCHAFT (DOPPELABSCHLUSS) -->
+    <string name="profilBetriebswirtschaftDoppel">Der breitgefächerte Studiengang vermittelt ein solides Grundwissen in Betriebs- und Volkswirtschaftslehre sowie in Rechts- und Sozialwissenschaften. Du lernst, wie Unternehmen funktionieren und wie knappe Ressourcen optimal zu managen sind.
+    \n\nAls Schwerpunkte bietet das Studium Dir zur Auswahl und Spezialisierung: Marketing, Personal- und Organisations-management, Prüfungswesen und Controlling.
+    \n\nDrei von sieben Semestern sind an der Partnerhochschule in Troyes zu absolvieren, wo das Studium auf Französisch erfolgt. Die Fachvorlesungen thematisieren, teilweise auf Englisch, internationale und globale Aspekte.</string>
+    <string name="passtBetriebswirtschaftDoppel">Du solltest Dich für wirtschaftliche Zusammenhänge und Aktivitäten interessieren, gut in Mathematik sein und analytisch denken können. Voraussetzung sind sehr gute Französischkenntnisse. Auch solltest Du gute Englischkenntnisse haben und gerne im Team arbeiten.</string>
+    <string name="nachdemstudiumBetriebswirtschaftDoppel">Entsprechend Deiner Spezialisierung kannst Du Dich im Marketing oder im Controlling, im Verkauf oder im Vertrieb, im Personal- oder im Prüfungswesen betätigen. Du kannst auch Finanzdienstleistungen erbringen oder einer anderen Managementtätigkeit nachgehen.
+    \n\nDie in diesem Studiengang vermittelten Kenntnisse und Fähigkeiten bereiten auf eine Tätigkeit in einem internationalen Umfeld vor. Du kannst Führungsaufgaben in deutsch-französischen, europäischen oder global handelnden Unternehmen, Institutionen und Verwaltungen übernehmen, jedoch auch selbstständig arbeiten.</string>
+    <string name="mehrinfosBetriebswirtschaftDoppel">Die FRA-UAS bietet gemeinsam mit der französischen Partnerhochschule "Groupe Ecole Supérieure de Commerce" (ESC) in Troyes (südliche Champagne) Studierenden der Betriebswirtschaft die Möglichkeit, in sieben Semestern sowohl den deutschen Bachelor-Abschluss in Betriebswirtschaftslehre als auch den Bachelor-Abschluss International Network for Business Administration (INBA) zu erwerben.</string>
+
+    <!-- INTERNATIONAL BUSINESS ADMINISTRATION -->
+    <string name="profilBusinessAdmin">Neben den Grundlagen der Betriebs- und Volkswirtschaft und der Rechtswissenschaften vermittelt Dir dieser Studiengang Einblicke in die politischen, rechtlichen und ökonomischen Bedingungen für internationale Wirtschaftsaktivitäten.
+    \n\nAls Schwerpunkte bietet Dir das Studium zur Auswahl und Spezialisierung: Finanzierung, Marketing, Personal- und Organisationsmanagement, Produktionsmanagement und Logistik, Betriebliche Steuerlehre, Prüfungswesen und Controlling. Du lernst außerdem, mit kulturellen Unterschieden umzugehen.</string>
+    <string name="passtBusinessAdmin">Du solltest Dich für wirtschaftliche und globale Zusammenhänge interessieren, gut in Mathematik sein und analytisch denken können. Vorausgesetzt werden sehr gute Englischkenntnisse. Du solltest auch gerne im Team arbeiten.</string>
+    <string name="nachdemstudiumBusinessAdmin">Du bist hervorragend vorbereitet auf Managementtätigkeiten in international agierenden und kooperierenden Unternehmen, Industriekonzernen, Banken, Dienstleistungsunternehmen sowie öffentlichen Institutionen.
+    \n\nDeinen Spezialisierungen entsprechend kannst Du in einem internationalen Rahmen das Management von Herstellung, Marketing oder Vertrieb von Produkten übernehmen oder Personal, Dienstleistungen oder Finanzen managen. Du kannst auch im Controlling arbeiten, um beispielsweise regionale Unterschiede beim Verkauf von Produkten zu analysieren.</string>
+    <string name="mehrinfosBusinessAdmin">Der Studiengang enthält verpflichtend für alle ein internationales Jahr mit Lehrveranstaltungen ausschließlich in englischer Sprache. Es findet entweder an einer Hochschule im Ausland oder in Frankfurt mit internationalen Mitstudierenden statt.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb3/studiengaenge/bachelor-studiengaenge/international-business-administr.html">Weitere Informationen</a></string>
+
+    <!-- INTERNATIONAL BUSINESS ADMINISTRATION -->
+    <string name="profilFinance">Dieser international ausgerichtete und sehr praxisorientierte Studiengang lehrt Grundlagen der Finanz- und Wirtschaftswissenschaften und Managementmodelle, ergänzt durch rechtliche Inhalte und mathematische Methoden.
+    \n\nTheorie wird im Zusammenhang mit Projekten, konkreten Fallstudien und Problemlösungen vermittelt. Eine wichtige Rolle spielt zudem die Verbesserung Deiner „Softskills“, besonders Deiner sozialen Kompetenz und interkulturellen Kommunikation.</string>
+    <string name="passtFinance">Du solltest Dich für wirtschaftliche und politische Zusammenhänge interessieren, gut in Mathematik sein, analytisch denken und mit Computern umgehen können, gute Englischkenntnisse haben und gerne im Team arbeiten.</string>
+    <string name="nachdemstudiumFinance">Du kannst alle Aufgaben übernehmen, die mit Finanzinstrumenten, der Disposition und Anlage finanzieller Mittel und der Finanzierung von Investitionen zu tun haben.
+    \n\nDas Studium befähigt Dich dazu, Führungskraft im Finanz-Bereich eines multinationalen Unternehmens zu werden. Du kannst bei Banken, Versicherungen und anderen Finanzdienstleistern tätig werden oder in Unternehmensberatungen und Wirtschaftsprüfungsfirmen.</string>
+    <string name="mehrinfosFinance">Ein Semester, auf das Du gründlich vorbreitet wirst, findet im Ausland statt.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb3/studiengaenge/bachelor-studiengaenge/international-finance.html">Weitere Informationen</a></string>
+
+    <!-- LUFTVERKEHRSMANAGEMENT (DUAL) -->
+    <string name="profilLufverkehrsmanagement">Das duale Studium, das die Frankfurt University of Applied Sciences gemeinsam mit den großen deutschen Flughafenbetreibern, Fluggesellschaften und der DFS Deutsche Flugsicherung durchführt, verzahnt das wissenschaftliche Hochschulstudium durchgängig mit betrieblichen Studienabschnitten.
+    \n\nDu wirst dazu befähigt, die Personen-, Fracht- und Informationsflüsse der Kooperationspartner unternehmens-übergreifend zu managen und innovative Entscheidungen zu treffen.</string>
+    <string name="passtLufverkehrsmanagement">Du solltest gute Englischkenntnisse haben, sozial kompetent und fähig sein, in interkulturellen Teams zu arbeiten.</string>
+    <string name="nachdemstudiumLufverkehrsmanagement">Betriebswirtschaftlich zugleich umfassend ausgebildet und spezialisiert auf die Luftverkehrsbranche, kannst Du nationale oder internationale Projekte planen und durchführen oder Dich in der strategischen Unternehmensplanung, im Finanz- und Investitionsbereich, in der Logistik, im Personalwesen, Marketing, Controlling oder Risikomanagement betätigen.
+    \n\nAls Wachstumsmotor bietet die sehr dynamische und innovative Luftverkehrsbranche zunehmend Arbeitsplätze mit anspruchsvollen Referenten- und Managementfunktionen. Du kannst für Fluggesellschaften, Flughafenbetreiber, Speditionen und die Flugsicherung tätig werden, aber aufgrund Deiner breiten betriebswirtschaftlichen Qualifikation auch für andere multinationale Unternehmen.</string>
+    <string name="mehrinfosLufverkehrsmanagement">Du bewirbst Dich bei einem Kooperationspartner, der Dich dann an der Hochschule immatrikuliert. Du bist während der gesamten Studienzeit in dem Unternehmen beschäftigt und erhältst dafür eine Vergütung.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb3/studiengaenge/duale-studiengaenge/luftverkehrsmanagement.html">Weitere Informationen</a></string>
+
+    <!-- PUBLIC ADMINISTRATION (DUAL) -->
+    <string name="profilPublicAdmin">Diesen dualen Studiengang führt die FRA-UAS in Zusammenarbeit mit hessischen Kommunen durch. Er vermittelt Dir die in Verwaltungen benötigten institutionellen, juristischen und betriebswirtschaftlichen Kenntnisse. Du wirst gezielt auf berufliche Tätigkeiten in den Behörden und privatisierten Betrieben der kooperierenden Kommunen vorbereitet.</string>
+    <string name="passtPublicAdmin">Du solltest Dich für Politik, Wirtschaft und Recht interessieren und gut in Mathematik sein.</string>
+    <string name="nachdemstudiumPublicAdmin">Du bist dazu qualifiziert, Managementaufgaben und mittlere Führungsaufgaben im allgemeinen Verwaltungsdienst zu übernehmen. Du kannst Verwaltungsprozesse planen und steuern, Bedarfs- und Haushaltspläne erstellen, Ausschreibungen durchführen, Wirtschaftlichkeits- und Effizienzberechnungen vornehmen oder im Controlling tätig werden.
+    \n\nDein Fachwissen kannst Du in allen möglichen öffentlichen Verwaltungen wie der Stadt-, Sozial-, Finanz-, Ordnungs- und Justizverwaltung einsetzen, jedoch auch in anderen staatlichen Institutionen, im Sozialversicherungswesen, in verwaltungsnahen Dienstleistungsunternehmen sowie in privatisierten Betrieben einer Kommune.</string>
+    <string name="mehrinfosPublicAdmin">In jedem Semester finden praktische Studienabschnitte in Ämtern und Betrieben der jeweiligen Kommune statt.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb3/studiengaenge/duale-studiengaenge/public-administration.html">Weitere Informationen</a></string>
+
+    <!-- PUBLIC AND NON-PROFIT MANAGEMENT -->
+    <string name="profilNonProfit">In diesem Studiengang lernst Du „Betriebswirtschaft für den öffentlichen Sektor“. Sie wird  ergänzt durch rechtliches Fachwissen und spezifische Kenntnisse über die besonderen Ziele, Bestimmungen und Rahmenbedingungen öffentlichen und gemeinnützigen Wirtschaftens.
+    \n\nViele Verwaltungen werden derzeit auf betriebswirtschaftliche Rechnungslegung und ökonomische Steuerungsverfahren umgestellt. Dieser Trend erhöht den Bedarf an Ökonomen, die mit den Besonderheiten des öffentlichen und gemeinwirtschaftlichen Bereichs vertraut sind und beurteilen können, wie moderne Managementkonzepte auf den öffentlichen Sektor übertragbar sind.</string>
+    <string name="passtNonProfit">Du solltest Dich für Politik, Wirtschaft und Recht interessieren und gut in Mathematik sein.</string>
+    <string name="nachdemstudiumNonProfit">Du bist dazu qualifiziert, Managementaufgaben im gehobenen allgemeinen Verwaltungsdienst zu übernehmen, sei es Organisations-, Personal- oder Finanzmanagement. Du kannst im Finanzbereich für Steuern, Buchführung und Rechnungswesen zuständig oder im Controlling tätig sein. Außerdem hast Du gelernt, Wirtschaftsprüfungen durchzuführen.
+    \n\nDu kannst Dich auch als Berater selbstständig machen.
+    \n\nDu bist gut vorbereitet auf Tätigkeiten in öffentlichen Verwaltungen, öffentlichen und gemeinwirtschaftlichen Unternehmen, in Non-Profit-Organisationen wie Kammern und Verbänden oder bei verwaltungsnahen Dienstleistern wie Beratungs- und Prüfungsgesellschaften, für die betriebswirt­schaftliche Kenntnisse notwendig sind.</string>
+    <string name="mehrinfosNonProfit">Das obligatorische Praktikum kann bis zu einem Semester lang in einer Organisation absolviert werden.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb3/studiengaenge/bachelor-studiengaenge/public-und-non-profit-management.html">Weitere Informationen</a></string>
+
+    <!-- TOURISMUSMANAGEMENT (DUAL) -->
+    <string name="profilTourismus">Dieses Studium ist dual organisiert, es umfasst also, neben der wissenschaftlich fundierten Qualifikation an der FRA-UAS, eine betriebliche Ausbildung bei einem Kooperationspartner. Grundlagen der Betriebswirtschaft wie Rechnungswesen und Managementfunktionen lehrt Dich dieser Studiengang ebenso wie spezielle Themen der Tourismuswirtschaft.
+    \n\nHinzu kommt eine Vertiefung Deiner Sprachkenntnisse im Englischen und im Spanischen oder einer anderen zweiten Fremdsprache.</string>
+    <string name="passtTourismus">Du solltest Dich für andere Kulturen interessieren, neugierig auf die Welt sein, gute Englischkenntnisse haben, sozial kompetent und fähig sein, in interkulturellen Teams zu arbeiten.</string>
+    <string name="nachdemstudiumTourismus">Du hast vielseitige Möglichkeiten im In- und Ausland: Du kannst neue Projekte und Produkte in der Tourismuswirtschaft planen und umsetzen, Geschäftsmodelle und Konzepte verbessern oder Strategien zur Erschließung neuer Märkte entwickeln.
+    \n\nDer Tourismus ist, gerade in Deutschland, eine boomende Branche. Mit Deiner Qualifikation stehen Dir Reiseanbieter, Reiseveranstalter, Reisebüros und Hotels offen. Du kannst auch für sachverwandte Partner der Tourismuswirtschaft tätig werden.</string>
+    <string name="mehrinfosTourismus">Du bewirbst Dich bei einem kooperierenden Ausbildungsbetrieb, der Dich dann an der Hochschule immatrikuliert. Du arbeitest in diesem Betrieb und wirst dafür bezahlt.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb3/studiengaenge/duale-studiengaenge/tourismusmanagement.html">Weitere Informationen</a></string>
+
+    <!-- WIRTSCHAFTSRECHT -->
+    <string name="profilWirtschaftsrecht">Dieser Studiengang setzt sich zu rund 60 Prozent aus Rechtswissenschaften und zu rund 30 Prozent aus Wirtschaftswissenschaften zusammen. Hinzu kommen Fachenglisch und fachübergreifende Kompetenzen.
+    \n\nDu lernst alle für das Wirtschaftsleben relevanten Gebiete des Privatrechts, öffentlichen Rechts und Strafrechts kennen und erwirbst eine profunde juristische Methodenkompetenz.
+    \n\nIm wirtschaftswissenschaftlichen Teil Deines Studiums werden Dir die Grundlagen der Betriebs- und der Volkswirtschaftslehre sowie des Controlling und der Bilanzierung vermittelt.</string>
+    <string name="passtWirtschaftsrecht">Du solltest Dich für Recht, Wirtschaft und Politik interessieren. Vor allem solltest Du mündlich wie schriftlich sehr gut Deutsch können, gerne lesen und schreiben sowie Spaß am Argumentieren und Formulieren haben. Zudem erforderlich sind gute Englisch- und Mathematikkenntnisse und die Fähigkeit zu analytischem Denken.</string>
+    <string name="nachdemstudiumWirtschaftsrecht">Du verfügst über eine sehr breite Qualifikation und kannst in allen Wirtschaftsbranchen sowohl juristisch als auch in Management- und Organisationsfunktionen tätig werden. Du kannst rechtliche und betriebswirtschaftliche Probleme erkennen und lösen, juristische Gutachten verfassen, Verträge aufsetzen und Vertragsverhandlungen führen.
+    \n\nDer Studiengang Wirtschaftsrecht eröffnet Dir vielfältige Berufsperspektiven. Zu Deinen möglichen Einsatzbereichen zählen kaufmännische Abteilungen, Rechtsabteilungen und das Personalwesen in großen und mittleren Unternehmen, Banken und Versicherungen, Unternehmens- und Personalberatungen, große Rechtsanwalts- und Insolvenzkanzleien, Wirtschaftsprüfungs-Gesellschaften und Steuerberatungen, öffentliche Einrichtungen und Verbände.</string>
+    <string name="mehrinfosWirtschaftsrecht">Nach dem Bachelor-Abschluss kannst Du eine Zusatzausbildung als Steuerberaterin/Steuerberater oder Wirtschaftsprüferin/Wirtschaftsprüfer absolvieren, oder Du kannst einen passenden Masterstudiengang anschließen.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb3/studiengaenge/bachelor-studiengaenge/wirtschaftsrecht.html">Weitere Informationen</a></string>
+
+    <!-- FB4 -->
+    <!-- PFLEGE -->
+    <string name="profilPflege">Dieser Studiengang wendet sich sowohl an Interessierte ohne Erfahrung im Pflegebereich als auch an solche, die bereits eine Berufsausbildung in einem Pflege- und Hebammenberuf abgeschlossen haben und nun eine allgemeine pflegerische Kompetenz anstreben – auf wissenschaftlichem Niveau und auf dem aktuellen Stand des fachlichen Wissens.
+    \n\nDazu gehört die Anatomie ebenso wie die Sozialpsychologie. Du lernst Pflegesituationen bei körperlichen und psychischen Erkrankungen kennen und erwirbst Kenntnisse und Handlungskompetenzen vor allem für die Pflege von Erwachsenen.</string>
+    <string name="passtPflege">Du solltest Dich gerne auf Menschen einlassen, ein gutes Einfühlungsvermögen besitzen und keinerlei Berührungsängste haben. Da Du in Deinem zukünftigen Beruf häufig Beziehungen zu Menschen in schwierigen Lebenssituationen eingehst, solltest Du konflikt- und kritikfähig sein, besonders auch selbstkritisch Deinem eigenen Verhalten gegenüber. Für die Lektüre wissenschaftlicher Studien sind oft Englischkenntnisse erforderlich.</string>
+    <string name="nachdemstudiumPflege">Du kannst Dich direkt in der Pflege von Menschen unterschiedlichen Alters engagieren. Du bist auch befähigt, der Pflege beratend und diagnostisch zur Seite zu stehen. Zudem kannst Du gezielte Pflegemaßnahmen begründen, planen, umsetzen sowie deren Erfolge beurteilen.
+    \n\nDu kannst auch in die Forschung gehen oder Firmen bei der Entwicklung von Hilfsmitteln wie zum Beispiel Pflegebetten beraten.
+    \n\nDu bist hervorragend qualifiziert für die Pflege in allen stationären und ambulanten Einrichtungen des Gesundheitswesens wie Krankenhäuser, Rehazentren und Pflegeheime, Du kannst Dich jedoch auch in der häuslichen Pflege betätigen. Als berufliche Alternative böte sich die Arbeit in einer Kranken- und Pflegekasse, Behörde oder Kommune an.</string>
+    <string name="mehrinfosPflege">Das Studium stattet Dich mit einer akademischen Grundqualifikation aus. Um in der Pflege eigenverantwortlich arbeiten zu können, benötigst Du die Berufszulassung, die Du nach dem Studienabschluss und einem weiteren Jahr an einer Pflegeschule mit einem Examen erwerben kannst.
+    \n\nAußerhalb der Hochschule erworbene und nachgewiesene Qualifikationen können angerechnet werden.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb4/studiengaenge-bachelor/pflege-b-sc.html">Weitere Informationen</a></string>
+
+    <!-- PFLEGE- UND CASE MANAGEMENT -->
+    <string name="profilPflegeCaseManagement">Dieser Studiengang wendet sich an Interessierte, die bereits eine Berufsausbildung in einem Pflege- und Hebammenberuf abgeschlossen haben und sich nun auf wissenschaftlichem Niveau weiterqualifizieren möchten. Er kombiniert die Kompetenzen des Pflegemanagements mit denen des Casemanagements.
+    \n\nDas Casemanagement begleitet Kranke während ihrer gesamten, meist komplexen Behandlung,  koordiniert alle Abläufe und stellt alle Informationen für weitere Therapien zusammen. Im Casemanagement verbindest Du also die beteiligten Fachkräfte, Akteure und Organisationen, zum Beispiel die Rehaklinik mit dem Herzchirurgen, dem Hausarzt und der Krankenkasse eines Patienten.</string>
+    <string name="passtPflegeCaseManagement">Du solltest Dich gerne auf Menschen einlassen, ein gutes Einfühlungsvermögen besitzen und keinerlei Berührungsängste haben. Da Du in Deinem zukünftigen Beruf häufig Beziehungen zu Menschen in schwierigen Lebenssituationen eingehst, solltest Du konflikt- und kritikfähig sein, besonders auch selbstkritisch Deinem eigenen Verhalten gegenüber.
+    \n\nFür die Lektüre wissenschaftlicher Studien sind Englischkenntnisse erforderlich, für die aufwändige Informationsverarbeitung EDV-Kenntnisse</string>
+    <string name="nachdemstudiumPflegeCaseManagement">Du bist fähig, Aufgaben des mittleren Managements in Gesundheitseinrichtungen zu übernehmen, Prozesse zu steuern und die Qualität von Pflegemaßnahmen sicherzustellen. Du kannst Pflegemaßnahmen langfristig begleiten, koordinieren, budgetieren sowie deren Erfolge beurteilen. Und Du bist in der Lage, national wie international zu kooperieren.
+    \n\nDu bist bestens qualifiziert für viele Einrichtungen des Gesundheitswesens, für Krankenhäuser und Rehazentren ebenso wie für Kranken- und Pflegekassen oder Gesundheitsbehörden. Du kannst aber auch selbstständig für einzelne Patienten arbeiten.</string>
+    <string name="mehrinfosPflegeCaseManagement">Für Auslandssemester bietet die FRA-UAS einen europaweiten Austausch an.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb4/studiengaenge-bachelor/pflege-und-case-management.html">Weitere Informationen</a></string>
+
+    <!-- SOZIALE ARBEIT -->
+    <string name="profilSozialeArbeit">Soziale Arbeit hilft Menschen in Problemlagen, ihr Leben selbstbestimmt zu gestalten. Es können Kinder, Jugendliche oder Senioren sein, alleinerziehende Mütter oder Migranten, Menschen mit Behinderungen oder Suchtgefährdete. Sie sind meistens arm, sozial und kulturell ausgegrenzt oder ohne Zugang zu Bildung und Förderung.
+    \n\nSoziale Arbeit kümmert sich um Integration in einem gesellschaftlich, wirtschaftlich und rechtlich geordneten Rahmen.</string>
+    <string name="passtSozialeArbeit">Du solltest kontaktfreudig sein und Dich gerne für Menschen engagieren, Dich sensibel in Probleme und Nöte einfühlen und gut kommunizieren können. Deine zukünftige Arbeit setzt auch ein hohes Maß an Selbstreflexion voraus, was Deine Haltung und Dein Handeln betrifft. Und die Bereitschaft, Dich immer wieder neuen Situationen zu stellen und Dich dabei weiterzuentwickeln.</string>
+    <string name="nachdemstudiumSozialeArbeit">Deine Arbeit wird sehr praxisbezogen und vielfältig sein. Du kannst Kinder betreuen, mit Jugendlichen arbeiten, Süchtigen und Straffälligen helfen, Eltern und Familien beraten, soziale Projekte managen, Kultur- und Medienarbeit leisten und vieles mehr.
+    \n\nDu kannst in öffentlichen Institutionen, privaten Einrichtungen oder bei Unternehmen tätig werden: in Kindergärten und Schulen, Krankenhäusern und Seniorenzentren, in Beratungsstellen, im Jugend- und im Sozialamt, bei der Suchthilfe und im Strafvollzug, in der beruflichen Weiterbildung und in Personalabteilungen.</string>
+    <string name="mehrinfosSozialeArbeit">Deine Qualifikation wird fachwissenschaftlich und methodisch fundiert sein. Mit der Wahl Deiner Schwerpunkte eröffnen sich Dir vielfältige Tätigkeitsfelder. Die FRA-UAS stellt Dir auch eine eigene Theaterbühne sowie eine Kunst-, Keramik-, Musik- und Videowerkstatt zur Verfügung, damit Du je nach Studienschwerpunkt Deine kreativen Kompetenzen erweitern kannst.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb4/studiengaenge-bachelor/soziale-arbeit-ba.html">Weitere Informationen</a></string>
+
+    <!-- SOZIALE ARBEIT: TRANSNATIONAL -->
+    <string name="profilSozialeArbeitTrans">Dieser transnationale Studiengang behandelt globale soziale Themen und kulturelle Unterschiede auf wissenschaftlichem Niveau. Du erwirbst dabei die Qualifikation, Menschen in Problemlagen helfen zu können, ihr Leben selbstbestimmt zu gestalten.
+    \n\nBei den sozialen Problemen kann es sich um Armut, die Folgen von Konflikten und Kriegen, von Flucht und Migration handeln. Du kümmerst Dich um Integration in einem gesellschaftlich, wirtschaftlich und rechtlich geordneten Rahmen. </string>
+    <string name="passtSozialeArbeitTrans">Du solltest kontaktfreudig sein und Dich gerne für Menschen engagieren, Dich sensibel in Probleme und Nöte einfühlen und gut kommunizieren zu können. Deine zukünftige Arbeit setzt auch ein hohes Maß an Selbstreflexion voraus und die Bereitschaft, Dich immer wieder neuen Situationen zu stellen und Dich dabei weiterzuentwickeln. Gute Englischkenntnisse und ein gutes Sprach- und Textverständnis sind notwendig.</string>
+    <string name="nachdemstudiumSozialeArbeitTrans">Du kannst Dich in entwicklungspolitischen Projekten im Ausland engagieren oder in hiesigen Einrichtungen arbeiten, die sich mit Themen wie Flucht, Migration, Mobilität, Nachhaltigkeit oder Interkulturalität beschäftigen.
+    \n\nDeine fachlichen Kompetenzen sind in internationalen Institutionen ebenso gefragt wie in öffentlichen Einrichtungen, bei Behörden, in Vereinen, bei Bildungsträgern, in Schulen und Betrieben in Deutschland.</string>
+    <string name="mehrinfosSozialeArbeitTrans">Aufgrund der transnationalen Ausrichtung des Studiengangs ist ein Auslandssemester an einer Partnerhochschule Pflicht. Zusätzlich findet ein Auslandspraktikum statt.\n\n<a href="https://www.frankfurt-university.de/fachbereiche/fb4/studiengaenge-bachelor/soziale-arbeit-transnational.html">Weitere Informationen</a></string>
+
+
+    <!-- Studiengänge Headlines-->
+    <!-- FB1 -->
+    <string name="architektur">ARCHITEKTUR</string>
+    <string name="bauingenieurwesen">BAUINGENIEURWESEN</string>
+    <string name="bauingenieurwesenDual">BAUINGENIEURWESEN (DUAL)</string>
+    <string name="geoinformation">GEOINFORMATION UND KOMMUNALTECHNIK</string>
+
+    <!-- FB2 -->
+    <string name="bioverfahrenstechnik">BIOVERFAHRENSTECHNIK</string>
+    <string name="wirtschaftsinformatikInt">WIRTSCHAFTSINFORMATIK (INTERNATIONAL)</string>
+    <string name="wirtschaftsinformatikTrans">WIRTSCHAFTSINFORMATIK (TRANSNATIONAL)</string>
+    <string name="elektrotechnik">ELEKTRO -UND KOMMUNIKATIONSTECHNIK</string>
+    <string name="enenergie">ENERGIEEFFIZIENZ UND ERNEUERBARE ENERGIEN</string>
+    <string name="informatikMob">INFORMATIK - MOBILE ANWENDUNGEN</string>
+    <string name="informatik">INFORMATIK</string>
+    <string name="informationstechnik">INFORMATIONSTECHNIK</string>
+    <string name="maschinenbau">MASCHINENBAU</string>
+    <string name="maschinenbauSpan">MASCHINENBAU - SPAN.-DT.</string>
+    <string name="mechatronik">MECHATRONIK</string>
+    <string name="produktentwicklung">PRODUKTENTWICKLUNG UND TECHNISCHES DESIGN</string>
+    <string name="wirtschaftsingenieur">WIRTSCHAFTSINGENIEUR SERVICE</string>
+    <string name="wirtschaftsingenieurwesen">WIRTSCHAFTSINGENIEURWESEN ONLINE</string>
+
+    <!-- FB3 -->
+    <string name="betriebswirtschaft">BETRIEBSWIRTSCHAFT</string>
+    <string name="betriebswirtschaftDoppel">BETRIEBSWIRTSCHAFT (DOPPELABSCHLUSS)</string>
+    <string name="businessAdmin">INTERNATIONAL BUSINESS ADMINISTRATION</string>
+    <string name="intFinance">INTERNATIONAL FINANCE</string>
+    <string name="luftverkehrsmanagement">LUFTVERKEHRSMANAGEMENT (DUAL)</string>
+    <string name="publicAdmin">PUBLIC ADMINISTRATION (DUAL)</string>
+    <string name="nonprofit">PUBLIC AND NON-PROFIT MANAGEMENT</string>
+    <string name="tourismusmanagement">TOURISMUSMANAGEMENT (DUAL)</string>
+    <string name="wirtschaftsrecht">WIRTSCHAFTSRECHT</string>
+
+    <!-- FB4 -->
+    <string name="pflege">PFLEGE</string>
+    <string name="pflegeCase">PFLEGE- UND CASE MANAGEMENT</string>
+    <string name="sozialeArbeit">SOZIALE ARBEIT</string>
+    <string name="sozialeArbeitTrans">SOZIALE ARBEIT: TRANSNATIONAL</string>
+
+    <!-- Abschlüsse -->
+    <string name="bachelorOS">Bachelor of Science</string>
+    <string name="bachelorOA">Bachelor of Arts</string>
+    <string name="bachelorOE">Bachelor of Engineering</string>
+    <string name="bachelorOL">Bachelor of Laws</string>
+
+    <!-- Beratung Content -->
+    <string name="beratungHeadline">Orientierung und Beratung</string>
+    <string name="ofirstText"><![CDATA[<p>Der “Klassiker“: Im persönlichen Gespräch berät das Team der Studienberatung über Studienmöglichkeiten,
+    Inhalte, Aufbau und Anforderungen eines Studiums. Hier bekommst Du Hinweise  zur Entscheidungsfindung für den richtigen Studiengang,
+    zu Studieninhalten, zu Berufsperspektiven. Und man freut sich, wenn Du mit konkreten Fragen deutlich machst, dass Du Dich vorab informiert hast!
+    Dann kann man gleich tiefer einsteigen. <br/>
+    <a href="https://www.frankfurt-university.de/studium/beratung/dasteam1/unsere-angebote1.html">Mehr Infos</a></p>]]></string>
+    <string name="osecondText">\t2. Allgemeine Studienberatung</string>
+    <string name="othirdText">\t3. Orientierungsangebote</string>
+    <string name="ofourthText"><![CDATA[<p><big><b>„School’s over –and now?“</b></big><br/>
+    Workshops für Studieninteressierte und Studierende.<br/>
+    <a href="https://www.frankfurt-university.de/studium/beratung/dasteam1/unsere-angebote00/aktuelle-workshops.html">Mehr Infos</a><br/>
+
+    Die hier aufgeführten Angebote richten sich in erster Linie an Studierende;
+    den Workshop "School's over - and now?" findest Du in der Workshop-Übersicht unter "Studienvorbereitungs- und -eingangsphase".<br/><br/>
+
+    <big><b>"MainStudy" - Infotage für Schülerinnen, Schüler und Studieninteressierte</b></big><br/>
+    Immer im Januar gestaltet die Frankfurt University of Applied Sciences gemeinsam mit allen Frankfurter Hochschulen und der Bundesagentur für Arbeit
+    die "MainStudy" auf unserem Campus und dem der Goethe-Uni.<br/>
+
+    Unter anderem stellen Professoren verschiedene Studiengänge vor, Sie können sich an Informationsständen Ihre persönlichen Fragen beantworten lassen,
+    an Labor- und Campusführungen teilnehmen und vieles mehr.<br/>
+
+    Willkommen sind sowohl Schülerinnen und Schüler, Lehrerinnen und Lehrer als auch Eltern.<br/>
+
+    Eine Anmeldung ist nicht erforderlich. Nähere Informationen wie auch das Programm finden Sie hier: <a href="https://www.frankfurt-university.de/studium/studium-kennenlernen/mainstudy.html">MainStudy</a> </p>]]></string>
+    <string name="ofifthText">\tZur Übersicht</string>
+    <string name="osixthText">Orientierungs- und Beratungsangebote für Schüler/innen</string>
+    <string name="oseventhText">\t4. Studieren probieren</string>
+    <string name="oeightText"><![CDATA[<p><big><b>Schnupperstudium</b></big><br/>
+
+    Du nimmst an regulären Veranstaltungen wie Vorlesungen oder Seminaren teil.
+    Stell Dir eine Liste der für Dich interessanten Veranstaltungen aus dem Vorlesungsverzeichnis zusammen!
+    Verschaff Dir konkrete Einblicke in Seminare und Vorlesungen und durch aktive Teilnahme an Laborversuchen.
+    Informationen zur Anmeldung findest Du <a href="https://www.frankfurt-university.de/studium/studium-kennenlernen/schnupperangebote10.html">hier</a> auf dieser Seite,
+    sobald eine Anmeldung wieder möglich ist.<br/><br/>
+
+    <big><b>Chancen bilden: Fit für\'s Studium</b></big><br/>
+    Möglicherweise wärst Du der/die Erste aus Deiner Familie, der/die studiert – kein Wunder,
+    dass Du da Fragen und vielleicht sogar Zweifel hast. Wenn Du Schüler/-in einer unserer Partnerschulen bist,
+    dann bewirb Dich für einen Platz in unserem Programm „Fit fürs Studium“ (Zahl der Plätze begrenzt) und lass Dich gezielt auf dem Weg ins Studium begleiten und unterstützen.<br/>
+    <a href="https://www.frankfurt-university.de/studium/studium-kennenlernen/chancen-bilden00.html">Mehr Infos</a><br/><br/>
+
+    <big><b>Hilfe Mathe!</b></big><br/>
+    Mathematik ist ein Grundlagenfach aller Informatik- und Ingenieurstudiengänge, ebenso in den Wirtschaftswissenschaften.
+    Wir haben wichtige Tipps auf unserer <a href="https://www.frankfurt-university.de/fachbereiche/fb2/einrichtungen/mathe-plattform.html">Mathe-Plattform</a> zusammengestellt.</p>]]></string>
+    <string name="oninethText">\t5. Dem Ingeniör ist nichts zu schwör</string>
+    <string name="otenthText"><![CDATA[<p><big><b>Girl‘s Day - only for Girls</b></big><br/>
+
+    Entdecke das spannende Universum der Labore und den Spaß daran, Dinge in Bewegung zu bringen! Wenn Du wissen willst, wie Dinge funktionieren, bist Du an diesem Tag hier richtig!<br/>
+    Du kannst bei uns die Roboterdame „Roberta“ zum Tanzen bringen, Bakterien bei der Arbeit erleben, ein 3-D Stadtmodell erarbeiten, den Marienkäfer Kara programmieren,
+    eine Smartphone-Schnitzeljagd über den Campus erleben, Dein eigenes Produkt entwickeln, Spannendes über Programmierung und Zahlen erfahren,
+    durch Thermographie Unsichtbares sichtbar machen, den Weg von der Hardware zur Software kennenlernen und Dich mit dem Berufsfeld von Ingenieurinnen auseinandersetzen.
+    Einfach mal machen!<br/>
+    Immer im Frühjahr ist es so weit. Informationen zur Anmeldung findest Du <a href="https://www.frankfurt-university.de/studium/studium-kennenlernen/girls-day-2016.html">hier</a>.<br/><br/>
+
+    <big><b>Technikakademie</b></big><br/>
+    Im Unterschied zum Girls’s Day dauert die Technik-Akademie eine Woche und es können daran auch Jungs teilnehmen – warum sollten die sich nicht für
+    Technik interessieren? Die nächste Technik-Akademie findet immer im Frühjahr statt.<br/>
+    <a href="https://www.frankfurt-university.de/studium/studium-kennenlernen/technik-akademie.html">Mehr Infos</a><br/><br/>
+
+    <big><b>Junior Mentoring</b></big><br/>
+    Demnächst wieder hier!<br/>
+    Infos folgen </p>]]></string>
+    <string name="oeleventhText">\t6. Vor Ort - bei Ihnen oder bei uns!</string>
+    <string name="otwelvethText"><![CDATA[<p><big><b>Angebote für Lehrernde und Mitarbeiter/-innen an Schulen</b></big><br/>
+
+    Sehr gerne kommen wir zu Ihnen ins Haus: Sie Planen eine Unterrichtseinheit zum Thema „Studienwahl“?
+    Oder veranstalten Sie in Ihrer Schule einen Berufs- bzw. Studieninformations tag? Wir sprechen gerne Ihren speziellen Informationsbedarf
+    ab und besuchen Sie „vor Ort“. Oder Sie wollen die Frankfurt University of Applied Sciences mit Ihren Schülerinnen  und Schülern besuchen?<br/>
+
+    Ich freue mich auf Ihre Nachricht und Terminabsprache: Frank Weyel (Studienberater), Tel.: (069) 1533- 3883; <a href="mailto:weyel@abt-sb.fra-uas.de">weyel@abt-sb.fra-uas.de</a><br/>
+    <a href="https://www.frankfurt-university.de/studium/studium-kennenlernen/infoveranstaltungen-fuer-schulen.html">Mehr Infos</a> </p>]]></string>
+
+
+    <string name="otwentyfirstText">\t1. Informieren und probieren geht\n\t\t\t\tüber studieren</string>
+    <string name="otwentysecondText"><![CDATA[<p>Nein, wir wollen Dich nicht vom Studium abhalten – im Gegenteil.
+    Wir möchten Dich nur ermuntern, vor einer Entscheidung für oder gegen eine Studienrichtung oder für oder
+    gegen ein Studium eines oder mehrere unserer vielfältigen Informations- und Orientierungsangebote zu nutzen.<br/>
+
+    Das reicht von persönlicher Studien-Beratung über ein Schnupper-Studium bis zu „in house“-Veranstaltungen „vor Ort“ in der Schule </p>]]></string>
+
+    <string name= "test2"><b>Bold.</b>  <u>Underlined.</u> <br/> <i>Italic.</i> <b><big>Big.</big></b> <small>Small</small>
+    <a href="..."/> <b/> <big/> <blockquote/> <br/> <cite/> <dfn/> <div align="..."/> <em/>
+    <font size="..." color="..." face="..."/> <h1/> <h2/> <h3/> <h6/> <i/> <img src="..."/> <p/> <small/> <strike/>
+    <strong/> <sub/> <sup/> <tt/> <u/></string>
+    <string name="link2"><a href="https://www.google.de">Google</a></string>
+</resources>

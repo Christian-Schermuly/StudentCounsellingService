@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillViewport="false" >
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="fra.studentcounsellingservice.schritteActivity"
+    android:background="@drawable/background">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/buttonAuswahl"
+        android:id="@+id/buttonBack"
+        android:background="#00ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/infoStudiengang"
+        android:id="@+id/infoHeadline"
+        android:textColor="#007bbc"
+        android:textStyle="bold"
+        android:layout_below="@+id/buttonBack"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="25sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/infoStudiengang"
+        android:id="@+id/studiengang"
+        android:textColor="#000000"
+        android:layout_below="@+id/infoHeadline"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="17sp"
+        android:layout_marginTop="5pt"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/infoStudiengang"
+        android:id="@+id/abschluss"
+        android:textColor="#000000"
+        android:textStyle="italic"
+        android:layout_below="@+id/studiengang"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="11sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/profilheadline"
+        android:layout_below="@+id/abschluss"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/wirtschaftbuttons"
+        android:gravity="center_vertical"
+        android:layout_marginTop="15dp"
+        android:drawableLeft="@drawable/iconcolumn1aktiv"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/profil"
+        android:textColor="#ffffff"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/profilArchitektur"
+        android:id="@+id/profiltext"
+        android:layout_below="@+id/profilheadline"
+        android:layout_marginLeft="1dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingTop="8dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="8dp" />
+
+    <com.google.android.youtube.player.YouTubePlayerView
+        android:id="@+id/youtube_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profiltext"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/passtheadline"
+        android:layout_below="@+id/youtube_view"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/wirtschaftbuttons"
+        android:gravity="center_vertical"
+        android:layout_marginTop="15dp"
+        android:drawableLeft="@drawable/iconcolumn2aktiv"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/passt"
+        android:textColor="#ffffff"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/passtArchitektur"
+        android:id="@+id/passttext"
+        android:layout_below="@+id/passtheadline"
+        android:layout_marginLeft="1dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingTop="8dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="8dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/nachdemstudiumheadline"
+        android:layout_below="@+id/passttext"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/wirtschaftbuttons"
+        android:gravity="center_vertical"
+        android:layout_marginTop="15dp"
+        android:drawableLeft="@drawable/iconcolumn3aktiv"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/nachdemstudium"
+        android:textColor="#ffffff"
+        android:paddingLeft="5dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/nachdemstudiumArchitektur"
+        android:id="@+id/nachdemstudiumtext"
+        android:layout_below="@+id/nachdemstudiumheadline"
+        android:layout_marginLeft="1dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingTop="8dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="8dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/mehrinfosheadline"
+        android:layout_below="@+id/nachdemstudiumtext"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/wirtschaftbuttons"
+        android:gravity="center_vertical"
+        android:layout_marginTop="15dp"
+        android:drawableLeft="@drawable/iconcolumn4aktiv"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/mehrinfos"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/mehrinfosArchitektur"
+        android:id="@+id/mehrinfostext"
+        android:layout_below="@+id/mehrinfosheadline"
+        android:layout_marginLeft="1dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#ffffff"
+        android:paddingLeft="8dp"
+        android:paddingTop="8dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="8dp" />
+
+</RelativeLayout>
+
+</ScrollView>

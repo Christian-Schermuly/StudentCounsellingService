@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fra.studentcounsellingservice">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".StartActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".fachfinderActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize" />
+        <activity android:name=".beratungActivity" />
+        <activity android:name=".schritteActivity" />
+        <activity android:name=".studiengangActivity" />
+        <activity android:name=".architectureInfo"></activity>
+        <activity android:name=".bauingenieurInfo"></activity>
+        <activity android:name=".bauingenieurDualInfo"></activity>
+        <activity android:name=".geoInfo"></activity>
+        <activity android:name=".bioInfo"></activity>
+        <activity android:name=".wirtschaftsinformatikIntInfo"></activity>
+        <activity android:name=".wirtschaftsinformatikTransInfo"></activity>
+        <activity android:name=".elektrotechnikInfo"></activity>
+        <activity android:name=".energieInfo"></activity>
+        <activity android:name=".informatikMobInfo"></activity>
+        <activity android:name=".informatikInfo"></activity>
+        <activity android:name=".informationssystemtechnikInfo"></activity>
+        <activity android:name=".maschinenbauInfo"></activity>
+        <activity android:name=".mschinenbauDoppelInfo"></activity>
+        <activity android:name=".machatronikInfo"></activity>
+        <activity android:name=".produktentwicklungInfo"></activity>
+        <activity android:name=".serviceengineeringInfo"></activity>
+        <activity android:name=".wirtschaftsingenieurswesenInfo"></activity>
+        <activity android:name=".betriebswirtschaftInfo"></activity>
+        <activity android:name=".betriebswirtschaftDoppelInfo"></activity>
+        <activity android:name=".businessAdminInfo"></activity>
+        <activity android:name=".financeInfo"></activity>
+        <activity android:name=".luftverkehrsmanagementInfo"></activity>
+        <activity android:name=".publicAdminInfo"></activity>
+        <activity android:name=".nonProfitInfo"></activity>
+        <activity android:name=".tourismusmanagementInfo"></activity>
+        <activity android:name=".wirtschaftsrechtInfo"></activity>
+        <activity android:name=".pflegeInfo"></activity>
+        <activity android:name=".pflegeCaseManagementInfo"></activity>
+        <activity android:name=".sozialeArbeitInfo"></activity>
+        <activity android:name=".sozialeArbeitTransInfo"></activity>
+        <activity android:name=".fachfinderStartActivity">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+                <action android:name="android.intent.action.VIEW" />
+                <data android:scheme="activity_b" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
